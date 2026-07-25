@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Used Car Pricing Intelligence</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="shell">
+      <span class="eyebrow">GERMAN USED-CAR MARKET · INDEPENDENT CASE STUDY</span>
+      <h1>Used Car Pricing Intelligence</h1>
+      <p>Market-price estimates, uncertainty bands and inventory-aging actions—built as a reproducible analytics product.</p>
+      <div id="freshness" class="freshness"></div>
+    </div>
+  </header>
+  <main class="shell">
+    <section id="kpis" class="kpis"></section>
+    <section class="toolbar card">
+      <label>Brand <select id="brandFilter"><option value="All">All brands</option></select></label>
+      <span class="note">Filters update every chart and inventory row.</span>
+    </section>
+    <section class="grid two">
+      <article class="card"><div class="chart-head"><h2>Median asking vs model price</h2><p>EUR by brand; latest holdout period</p></div><div id="brandChart"></div></article>
+      <article class="card"><div class="chart-head"><h2>Depreciation curve</h2><p>Median price by vehicle age</p></div><div id="ageChart"></div></article>
+    </section>
+    <section class="card">
+      <div class="chart-head"><h2>Inventory action queue</h2><p>Review candidates are old inventory priced above the model estimate.</p></div>
+      <div class="table-wrap"><table><thead><tr><th>Vehicle</th><th>Age</th><th>Mileage</th><th>Days</th><th>Asking</th><th>Model</th><th>Gap</th><th>Action</th></tr></thead><tbody id="inventory"></tbody></table></div>
+    </section>
+    <section class="method card">
+      <h2>Method & limits</h2>
+      <p>The demo uses synthetic data and a time-based holdout. Asking prices are not transaction prices. The P10/P90 interval is an empirical residual band and is not a causal confidence interval. The workflow is designed to accept licensed marketplace data through the documented contract.</p>
+    </section>
+  </main>
+  <footer><div class="shell">Portfolio project by Zuqi Chen · Public demo data · No AutoScout24 or BMW Group affiliation</div></footer>
+  <script src="assets/dashboard-data.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
