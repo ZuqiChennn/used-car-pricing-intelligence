@@ -1,0 +1,1001 @@
+listing_id,listed_date,country,brand,model,fuel,transmission,seller_type,age_years,mileage_km,power_kw,previous_owners,accident_free,days_on_market,asking_price_eur,model_price_eur,price_p10_eur,price_p90_eur,price_gap_pct,recommended_action
+CAR-01048,2026-01-03,DE,Skoda,Octavia,Petrol,Automatic,Independent dealer,1,12150,257,1,True,73,35450,37388,32115,43186,-5.2,Hold
+CAR-03825,2026-01-03,DE,Mercedes-Benz,GLA,Hybrid,Manual,Private,4,96498,183,2,False,59,16500,13746,11807,15878,20.0,Review markdown
+CAR-02679,2026-01-03,DE,Audi,Q5,Electric,Automatic,Franchise dealer,7,100717,131,2,True,55,13720,13810,11862,15951,-0.7,Hold
+CAR-04834,2026-01-04,DE,Audi,A3,Petrol,Automatic,Private,4,84145,113,3,True,35,12020,12649,10865,14611,-5.0,Hold
+CAR-00188,2026-01-04,DE,Volkswagen,Golf,Petrol,Automatic,Independent dealer,8,146326,74,5,True,32,5480,4833,4151,5582,13.4,Hold
+CAR-03323,2026-01-04,DE,Volkswagen,ID.4,Petrol,Automatic,Franchise dealer,1,16604,88,1,True,15,44800,40884,35117,47224,9.6,Hold
+CAR-03436,2026-01-04,DE,Audi,Q3,Petrol,Automatic,Franchise dealer,4,86573,208,2,True,20,21810,18461,15857,21323,18.1,Hold
+CAR-00654,2026-01-04,DE,Skoda,Superb,Electric,Automatic,Private,2,44404,149,2,True,19,26420,27187,23352,31403,-2.8,Hold
+CAR-02927,2026-01-04,DE,Mercedes-Benz,C-Class,Diesel,Automatic,Independent dealer,4,67377,231,2,True,47,23270,20872,17928,24108,11.5,Review markdown
+CAR-01137,2026-01-04,DE,Mercedes-Benz,A-Class,Diesel,Manual,Franchise dealer,6,86512,134,3,True,35,8620,9394,8069,10851,-8.2,Check underpricing
+CAR-01484,2026-01-04,DE,Volkswagen,ID.4,Electric,Automatic,Independent dealer,3,66319,135,3,True,7,27070,22658,19462,26171,19.5,Hold
+CAR-03577,2026-01-05,DE,Audi,Q5,Petrol,Automatic,Franchise dealer,13,194239,105,5,True,66,5530,6398,5496,7390,-13.6,Check underpricing
+CAR-02309,2026-01-05,DE,Skoda,Karoq,Electric,Automatic,Private,5,76729,178,2,True,43,11960,12101,10395,13978,-1.2,Hold
+CAR-03036,2026-01-05,DE,Volkswagen,ID.3,Electric,Automatic,Franchise dealer,6,94192,159,2,True,16,12280,11592,9957,13389,5.9,Hold
+CAR-00356,2026-01-05,DE,Volkswagen,Golf,Petrol,Manual,Private,1,22562,141,1,True,13,24580,26313,22602,30394,-6.6,Hold
+CAR-04146,2026-01-06,NL,BMW,5 Series,Petrol,Automatic,Franchise dealer,1,16411,208,1,True,32,71290,60109,51631,69431,18.6,Hold
+CAR-00251,2026-01-06,AT,Skoda,Octavia,Petrol,Automatic,Private,4,81711,70,3,True,6,11920,10723,9211,12386,11.2,Hold
+CAR-03855,2026-01-06,DE,BMW,i4,Electric,Manual,Franchise dealer,5,103101,119,4,True,22,18970,16251,13958,18771,16.7,Hold
+CAR-04512,2026-01-06,DE,Skoda,Superb,Electric,Manual,Private,7,121118,134,3,True,47,7470,8045,6910,9292,-7.1,Hold
+CAR-02196,2026-01-07,NL,BMW,3 Series,Electric,Automatic,Independent dealer,5,95973,150,2,True,19,14860,14205,12202,16408,4.6,Hold
+CAR-03484,2026-01-07,DE,Volkswagen,Passat,Electric,Manual,Independent dealer,1,51680,188,1,False,71,28030,31167,26771,36000,-10.1,Check underpricing
+CAR-04271,2026-01-07,DE,Mercedes-Benz,GLA,Petrol,Automatic,Private,4,86187,154,1,True,76,17010,16332,14028,18864,4.2,Hold
+CAR-04258,2026-01-07,AT,Skoda,Karoq,Petrol,Automatic,Independent dealer,6,111860,128,2,True,42,9070,9089,7807,10499,-0.2,Hold
+CAR-04347,2026-01-07,DE,Skoda,Kodiaq,Petrol,Automatic,Franchise dealer,8,145507,202,4,True,80,7630,8356,7177,9652,-8.7,Check underpricing
+CAR-01583,2026-01-07,DE,Audi,Q5,Petrol,Manual,Independent dealer,3,68842,191,2,True,60,32220,28085,24123,32440,14.7,Review markdown
+CAR-03941,2026-01-07,DE,BMW,X3,Petrol,Manual,Franchise dealer,3,51902,140,3,True,28,26810,27073,23255,31272,-1.0,Hold
+CAR-03996,2026-01-07,DE,BMW,i4,Diesel,Automatic,Independent dealer,6,100828,116,3,True,70,14740,13579,11664,15685,8.5,Review markdown
+CAR-03268,2026-01-07,DE,Skoda,Superb,Diesel,Manual,Franchise dealer,4,84571,154,3,True,30,15940,14817,12727,17115,7.6,Hold
+CAR-03944,2026-01-07,DE,BMW,X3,Petrol,Automatic,Independent dealer,12,179111,70,5,True,50,5630,5981,5138,6909,-5.9,Hold
+CAR-01683,2026-01-08,DE,Audi,A4,Petrol,Automatic,Franchise dealer,2,48860,167,2,True,88,30590,30797,26453,35573,-0.7,Hold
+CAR-01556,2026-01-08,AT,Skoda,Superb,Petrol,Automatic,Independent dealer,3,58392,128,2,True,50,24280,21261,18262,24558,14.2,Review markdown
+CAR-00536,2026-01-08,DE,Mercedes-Benz,A-Class,Petrol,Automatic,Franchise dealer,6,130225,161,2,True,40,9300,9799,8417,11319,-5.1,Hold
+CAR-02507,2026-01-08,DE,Skoda,Superb,Diesel,Manual,Independent dealer,6,92004,114,2,True,55,10330,9707,8338,11213,6.4,Review markdown
+CAR-01243,2026-01-08,DE,BMW,5 Series,Diesel,Automatic,Franchise dealer,4,68319,110,3,True,27,26390,20438,17555,23607,29.1,Hold
+CAR-04517,2026-01-09,NL,Audi,Q5,Diesel,Automatic,Franchise dealer,4,67460,145,1,True,34,26040,23661,20324,27331,10.1,Hold
+CAR-02051,2026-01-09,DE,BMW,i4,Diesel,Automatic,Private,4,78505,209,2,True,30,23590,22225,19091,25672,6.1,Hold
+CAR-03908,2026-01-09,DE,Mercedes-Benz,E-Class,Petrol,Automatic,Independent dealer,2,46712,187,1,True,51,44370,42523,36526,49118,4.3,Hold
+CAR-02458,2026-01-09,DE,Audi,Q3,Diesel,Manual,Franchise dealer,2,38055,139,2,True,68,29080,26859,23070,31024,8.3,Review markdown
+CAR-02727,2026-01-09,DE,BMW,3 Series,Electric,Manual,Independent dealer,10,144079,186,4,True,35,5650,6577,5649,7596,-14.1,Check underpricing
+CAR-03899,2026-01-09,DE,BMW,i4,Hybrid,Automatic,Private,11,164044,144,5,True,3,5920,7361,6323,8503,-19.6,Check underpricing
+CAR-02231,2026-01-09,DE,Volkswagen,ID.3,Petrol,Manual,Franchise dealer,3,59202,107,3,True,104,21700,18012,15471,20805,20.5,Review markdown
+CAR-00728,2026-01-10,AT,Mercedes-Benz,E-Class,Diesel,Manual,Independent dealer,5,120390,121,2,True,47,16840,15520,13331,17927,8.5,Review markdown
+CAR-00673,2026-01-10,DE,Volkswagen,ID.3,Diesel,Manual,Independent dealer,4,66637,120,3,True,12,13870,13477,11576,15567,2.9,Hold
+CAR-01839,2026-01-10,DE,Volkswagen,Passat,Petrol,Automatic,Independent dealer,4,80067,127,2,True,58,15540,15557,13363,17970,-0.1,Hold
+CAR-03342,2026-01-10,DE,BMW,5 Series,Hybrid,Automatic,Franchise dealer,6,93265,202,3,True,114,19240,17409,14953,20108,10.5,Review markdown
+CAR-01140,2026-01-10,AT,Audi,A3,Petrol,Automatic,Private,5,67481,183,2,True,55,13650,13072,11228,15099,4.4,Hold
+CAR-00380,2026-01-10,DE,Mercedes-Benz,GLA,Diesel,Automatic,Franchise dealer,6,53721,146,2,True,21,14090,12982,11151,14995,8.5,Hold
+CAR-04551,2026-01-10,DE,Volkswagen,ID.3,Diesel,Manual,Franchise dealer,4,88206,200,1,True,56,16830,15577,13380,17992,8.0,Review markdown
+CAR-03647,2026-01-11,DE,Audi,A3,Hybrid,Automatic,Independent dealer,6,92740,164,3,True,120,11810,10874,9340,12560,8.6,Review markdown
+CAR-03090,2026-01-11,DE,Skoda,Octavia,Petrol,Automatic,Private,6,134798,179,2,True,133,7860,7943,6822,9174,-1.0,Hold
+CAR-00301,2026-01-11,DE,BMW,X3,Diesel,Manual,Franchise dealer,12,160386,116,4,True,34,5190,6502,5585,7510,-20.2,Check underpricing
+CAR-01681,2026-01-11,DE,Volkswagen,Passat,Petrol,Automatic,Franchise dealer,7,151544,97,3,True,10,6840,7594,6523,8772,-9.9,Check underpricing
+CAR-03272,2026-01-12,DE,Volkswagen,Tiguan,Hybrid,Automatic,Independent dealer,3,47231,152,1,True,48,21940,24007,20621,27730,-8.6,Check underpricing
+CAR-00272,2026-01-12,DE,BMW,X1,Diesel,Automatic,Independent dealer,4,75629,70,2,True,58,16130,14270,12257,16483,13.0,Review markdown
+CAR-00282,2026-01-12,DE,Audi,A3,Electric,Manual,Independent dealer,6,112417,124,3,True,68,8650,8914,7657,10297,-3.0,Hold
+CAR-01030,2026-01-12,DE,Mercedes-Benz,C-Class,Electric,Automatic,Franchise dealer,5,96135,166,2,True,47,19240,16557,14221,19124,16.2,Review markdown
+CAR-04729,2026-01-13,NL,Audi,A3,Petrol,Manual,Independent dealer,3,46952,70,1,True,64,16770,17183,14759,19848,-2.4,Hold
+CAR-00429,2026-01-13,DE,Volkswagen,Tiguan,Hybrid,Automatic,Independent dealer,4,60333,158,3,True,47,19880,18145,15586,20959,9.6,Review markdown
+CAR-03287,2026-01-13,DE,Mercedes-Benz,C-Class,Electric,Automatic,Independent dealer,4,71249,265,2,True,35,26620,23349,20056,26970,14.0,Hold
+CAR-04674,2026-01-13,DE,Volkswagen,ID.4,Electric,Automatic,Franchise dealer,4,74376,162,1,True,14,25500,20536,17640,23721,24.2,Hold
+CAR-00361,2026-01-14,DE,BMW,X3,Electric,Automatic,Private,2,65652,212,2,True,92,41550,37591,32288,43420,10.5,Review markdown
+CAR-04990,2026-01-14,DE,BMW,X3,Electric,Automatic,Independent dealer,3,39316,108,2,True,12,35830,29375,25232,33930,22.0,Hold
+CAR-03233,2026-01-14,NL,BMW,X1,Petrol,Manual,Franchise dealer,7,133173,89,2,True,8,7450,7980,6855,9218,-6.6,Hold
+CAR-01106,2026-01-15,DE,BMW,X3,Petrol,Manual,Independent dealer,3,69399,140,1,True,20,28500,26043,22370,30082,9.4,Hold
+CAR-01646,2026-01-15,DE,Audi,A3,Hybrid,Manual,Private,6,117151,134,2,True,13,8640,8662,7441,10006,-0.3,Hold
+CAR-01305,2026-01-15,DE,Skoda,Karoq,Petrol,Automatic,Franchise dealer,4,61683,137,2,True,25,15900,14918,12814,17231,6.6,Hold
+CAR-01068,2026-01-15,DE,BMW,X1,Diesel,Manual,Private,1,28410,134,1,True,43,27910,32232,27686,37230,-13.4,Check underpricing
+CAR-01267,2026-01-15,DE,Skoda,Octavia,Petrol,Manual,Independent dealer,1,14491,132,1,True,19,27600,29103,24998,33616,-5.2,Hold
+CAR-04888,2026-01-15,DE,Audi,Q5,Diesel,Manual,Franchise dealer,4,72821,131,2,True,13,21890,20559,17659,23747,6.5,Hold
+CAR-03479,2026-01-15,DE,Mercedes-Benz,C-Class,Diesel,Automatic,Independent dealer,13,232007,134,5,True,20,5440,4676,4017,5402,16.3,Hold
+CAR-00065,2026-01-16,DE,Mercedes-Benz,A-Class,Diesel,Automatic,Independent dealer,9,182788,130,3,True,58,5510,5232,4494,6044,5.3,Review markdown
+CAR-04465,2026-01-16,DE,BMW,3 Series,Diesel,Manual,Franchise dealer,4,49095,148,1,True,29,21100,17600,15117,20329,19.9,Hold
+CAR-04850,2026-01-16,DE,BMW,X1,Petrol,Automatic,Private,2,62326,124,1,True,98,23670,24978,21455,28852,-5.2,Hold
+CAR-02597,2026-01-16,DE,Audi,A4,Diesel,Manual,Private,3,61002,72,3,True,33,15980,16307,14007,18836,-2.0,Hold
+CAR-01802,2026-01-16,DE,BMW,X1,Hybrid,Automatic,Franchise dealer,13,123638,70,5,False,84,5560,5002,4296,5778,11.2,Review markdown
+CAR-03316,2026-01-16,DE,Volkswagen,Tiguan,Diesel,Automatic,Private,3,52592,149,2,True,45,21800,19608,16842,22649,11.2,Hold
+CAR-03182,2026-01-16,DE,Mercedes-Benz,GLA,Electric,Manual,Private,10,119034,103,4,True,21,5140,5924,5088,6843,-13.2,Check underpricing
+CAR-02613,2026-01-16,DE,Volkswagen,ID.3,Petrol,Automatic,Private,4,60958,231,3,True,24,18110,16755,14392,19353,8.1,Hold
+CAR-03660,2026-01-16,NL,BMW,X3,Diesel,Automatic,Independent dealer,4,43433,141,2,True,36,21340,23418,20115,27050,-8.9,Check underpricing
+CAR-00872,2026-01-16,DE,Skoda,Karoq,Petrol,Automatic,Private,6,94579,177,2,False,71,9220,8095,6953,9350,13.9,Review markdown
+CAR-02109,2026-01-16,NL,BMW,3 Series,Electric,Automatic,Franchise dealer,2,52197,185,1,True,77,32440,33119,28448,38255,-2.1,Hold
+CAR-00207,2026-01-17,DE,Volkswagen,ID.3,Diesel,Manual,Franchise dealer,3,80353,77,2,True,14,15350,15639,13433,18064,-1.8,Hold
+CAR-03526,2026-01-17,AT,BMW,i4,Diesel,Automatic,Independent dealer,5,112278,118,2,False,21,15550,13854,11900,16003,12.2,Hold
+CAR-00760,2026-01-17,DE,Volkswagen,Passat,Diesel,Automatic,Independent dealer,8,185314,218,4,True,14,6210,6689,5746,7726,-7.2,Hold
+CAR-03411,2026-01-17,DE,BMW,X1,Petrol,Automatic,Franchise dealer,4,56534,138,2,True,31,20020,18075,15526,20878,10.8,Hold
+CAR-04073,2026-01-17,DE,BMW,3 Series,Electric,Automatic,Private,1,22411,70,1,True,22,34540,34586,29708,39949,-0.1,Hold
+CAR-00436,2026-01-17,DE,BMW,5 Series,Petrol,Automatic,Independent dealer,2,29272,157,2,True,50,37190,39057,33548,45114,-4.8,Hold
+CAR-02504,2026-01-17,DE,Audi,Q3,Electric,Automatic,Independent dealer,1,31564,70,2,True,57,31250,34882,29962,40291,-10.4,Check underpricing
+CAR-03442,2026-01-17,NL,BMW,3 Series,Diesel,Automatic,Franchise dealer,13,226053,205,5,True,45,5680,4994,4289,5768,13.7,Hold
+CAR-01872,2026-01-17,DE,Skoda,Octavia,Petrol,Automatic,Franchise dealer,1,28683,117,1,True,47,22950,29845,25636,34474,-23.1,Check underpricing
+CAR-03954,2026-01-18,DE,BMW,i4,Electric,Manual,Independent dealer,10,129142,142,3,True,32,6700,8827,7582,10196,-24.1,Check underpricing
+CAR-02479,2026-01-18,DE,Skoda,Karoq,Electric,Automatic,Franchise dealer,7,83869,173,3,False,12,6760,8053,6917,9301,-16.1,Check underpricing
+CAR-04292,2026-01-18,AT,BMW,3 Series,Petrol,Automatic,Franchise dealer,3,48743,152,2,True,40,30390,24100,20701,27838,26.1,Hold
+CAR-02267,2026-01-18,DE,Mercedes-Benz,C-Class,Hybrid,Automatic,Independent dealer,6,97695,173,3,True,55,13470,13618,11697,15730,-1.1,Hold
+CAR-03962,2026-01-18,DE,Volkswagen,Golf,Diesel,Manual,Franchise dealer,1,33262,167,1,False,39,20620,23988,20605,27708,-14.0,Check underpricing
+CAR-04734,2026-01-18,AT,Skoda,Enyaq,Petrol,Manual,Franchise dealer,4,78580,70,2,False,90,13680,13753,11813,15886,-0.5,Hold
+CAR-03643,2026-01-19,NL,BMW,i4,Petrol,Automatic,Private,1,49535,204,1,True,73,48020,50955,43768,58857,-5.8,Hold
+CAR-00720,2026-01-19,DE,Mercedes-Benz,E-Class,Hybrid,Automatic,Independent dealer,2,38244,145,2,True,107,42790,42823,36783,49464,-0.1,Hold
+CAR-00157,2026-01-19,DE,Volkswagen,Passat,Electric,Manual,Private,3,57387,157,2,True,8,19300,19532,16777,22561,-1.2,Hold
+CAR-04335,2026-01-19,DE,BMW,3 Series,Hybrid,Manual,Independent dealer,7,97698,168,4,True,37,8130,9733,8360,11242,-16.5,Check underpricing
+CAR-00940,2026-01-19,AT,Audi,A4,Petrol,Automatic,Franchise dealer,3,79400,78,1,True,31,20110,20511,17618,23692,-2.0,Hold
+CAR-04942,2026-01-19,DE,Mercedes-Benz,EQE,Hybrid,Manual,Independent dealer,3,56076,160,1,True,26,36080,35048,30105,40484,2.9,Hold
+CAR-02074,2026-01-19,DE,Audi,A3,Hybrid,Automatic,Independent dealer,4,90345,114,3,True,25,13960,13962,11993,16127,-0.0,Hold
+CAR-02410,2026-01-19,DE,Volkswagen,ID.4,Petrol,Automatic,Franchise dealer,3,42131,179,2,True,88,28680,26749,22976,30897,7.2,Review markdown
+CAR-00326,2026-01-19,DE,Volkswagen,ID.4,Diesel,Automatic,Private,6,154228,90,2,True,66,7480,8626,7410,9964,-13.3,Check underpricing
+CAR-01483,2026-01-19,NL,Audi,Q5,Petrol,Automatic,Independent dealer,3,59557,109,1,True,48,30050,28183,24208,32554,6.6,Review markdown
+CAR-02437,2026-01-19,DE,Volkswagen,Golf,Petrol,Automatic,Private,4,82219,141,2,True,79,11910,11801,10137,13631,0.9,Hold
+CAR-01033,2026-01-19,DE,Skoda,Octavia,Petrol,Automatic,Franchise dealer,7,132496,189,3,True,69,7330,7519,6459,8685,-2.5,Hold
+CAR-04820,2026-01-20,DE,Volkswagen,ID.4,Petrol,Automatic,Franchise dealer,8,184922,122,4,True,82,5440,7107,6104,8209,-23.5,Check underpricing
+CAR-04675,2026-01-20,DE,BMW,X1,Hybrid,Manual,Independent dealer,4,68513,174,1,True,34,21290,18150,15590,20965,17.3,Hold
+CAR-02492,2026-01-20,AT,BMW,5 Series,Hybrid,Manual,Franchise dealer,4,81046,152,2,True,24,27390,22980,19739,26543,19.2,Hold
+CAR-00496,2026-01-20,DE,Mercedes-Benz,E-Class,Hybrid,Automatic,Independent dealer,6,97878,107,2,True,24,16700,15675,13464,18106,6.5,Hold
+CAR-01190,2026-01-20,DE,Mercedes-Benz,C-Class,Hybrid,Automatic,Private,4,72200,117,2,True,44,20480,18145,15586,20959,12.9,Hold
+CAR-03006,2026-01-20,DE,Mercedes-Benz,E-Class,Petrol,Manual,Franchise dealer,5,92996,161,4,True,65,17820,17796,15286,20556,0.1,Hold
+CAR-01714,2026-01-21,DE,Audi,Q5,Diesel,Automatic,Private,3,39786,160,2,True,77,32210,28318,24324,32710,13.7,Review markdown
+CAR-00750,2026-01-21,DE,Audi,Q3,Diesel,Automatic,Private,2,59570,139,1,True,77,25470,24963,21442,28835,2.0,Hold
+CAR-00523,2026-01-21,DE,Volkswagen,Tiguan,Hybrid,Automatic,Private,3,72418,105,1,True,43,20850,19485,16737,22507,7.0,Hold
+CAR-04778,2026-01-21,DE,Audi,Q3,Hybrid,Automatic,Independent dealer,4,72162,70,2,True,114,18660,16204,13918,18717,15.2,Review markdown
+CAR-04644,2026-01-21,DE,Audi,Q3,Hybrid,Automatic,Independent dealer,3,63048,142,2,True,18,23100,22479,19308,25965,2.8,Hold
+CAR-04658,2026-01-22,NL,Mercedes-Benz,GLA,Petrol,Manual,Independent dealer,11,99471,142,4,False,79,5390,5665,4866,6543,-4.9,Hold
+CAR-01963,2026-01-22,DE,BMW,X1,Petrol,Automatic,Independent dealer,5,87980,122,3,False,107,11760,11015,9461,12723,6.8,Review markdown
+CAR-00486,2026-01-22,DE,Mercedes-Benz,EQE,Petrol,Manual,Independent dealer,4,86881,83,2,True,33,24980,21437,18413,24761,16.5,Hold
+CAR-02365,2026-01-23,DE,Volkswagen,ID.4,Electric,Manual,Franchise dealer,2,35577,125,1,True,52,28660,31516,27070,36403,-9.1,Check underpricing
+CAR-04513,2026-01-23,DE,BMW,X1,Electric,Automatic,Independent dealer,8,139343,117,3,True,14,6620,7573,6504,8747,-12.6,Check underpricing
+CAR-04467,2026-01-23,DE,Volkswagen,Passat,Petrol,Automatic,Franchise dealer,1,25366,111,1,False,23,29930,31571,27118,36467,-5.2,Hold
+CAR-02030,2026-01-23,DE,BMW,X3,Petrol,Automatic,Independent dealer,2,39771,196,2,True,25,43270,40002,34360,46206,8.2,Hold
+CAR-03812,2026-01-23,DE,Mercedes-Benz,C-Class,Petrol,Automatic,Franchise dealer,2,59135,74,1,True,2,32940,28298,24307,32687,16.4,Hold
+CAR-01612,2026-01-24,DE,Volkswagen,ID.4,Petrol,Automatic,Independent dealer,0,12633,202,1,True,42,60490,62366,53569,72037,-3.0,Hold
+CAR-02837,2026-01-24,DE,Audi,e-tron,Diesel,Manual,Independent dealer,7,81864,184,4,True,86,14090,13850,11896,15997,1.7,Hold
+CAR-00100,2026-01-24,DE,Skoda,Enyaq,Diesel,Automatic,Franchise dealer,1,13033,103,1,True,71,37370,41131,35329,47509,-9.1,Check underpricing
+CAR-01094,2026-01-24,DE,Mercedes-Benz,GLA,Diesel,Automatic,Franchise dealer,8,176807,155,3,True,20,5900,7056,6061,8150,-16.4,Check underpricing
+CAR-04908,2026-01-24,DE,Volkswagen,ID.3,Petrol,Automatic,Franchise dealer,3,65489,152,2,True,40,21620,20435,17553,23605,5.8,Hold
+CAR-01600,2026-01-25,DE,Skoda,Enyaq,Hybrid,Automatic,Franchise dealer,4,75092,129,1,True,19,20000,19734,16951,22795,1.3,Hold
+CAR-02120,2026-01-25,DE,Audi,Q5,Electric,Automatic,Franchise dealer,7,99466,237,3,True,68,14730,15716,13499,18153,-6.3,Hold
+CAR-00722,2026-01-25,DE,BMW,3 Series,Electric,Manual,Independent dealer,5,99730,92,2,False,32,9150,10228,8786,11814,-10.5,Check underpricing
+CAR-03711,2026-01-26,DE,Volkswagen,Passat,Electric,Manual,Private,1,36547,110,2,True,27,27350,30938,26574,35735,-11.6,Check underpricing
+CAR-03491,2026-01-26,DE,BMW,3 Series,Diesel,Automatic,Franchise dealer,7,180505,135,3,True,44,5170,7525,6463,8692,-31.3,Check underpricing
+CAR-00160,2026-01-26,DE,BMW,i4,Diesel,Automatic,Independent dealer,5,125798,149,2,True,22,15790,15827,13595,18281,-0.2,Hold
+CAR-03568,2026-01-26,DE,Volkswagen,Tiguan,Hybrid,Automatic,Independent dealer,3,65439,185,1,True,28,22980,23755,20405,27439,-3.3,Hold
+CAR-02400,2026-01-26,DE,Mercedes-Benz,A-Class,Diesel,Automatic,Franchise dealer,3,84571,117,1,False,10,16470,14971,12860,17293,10.0,Hold
+CAR-04111,2026-01-27,AT,Volkswagen,Passat,Petrol,Automatic,Franchise dealer,5,57692,70,2,True,80,16450,13561,11648,15664,21.3,Review markdown
+CAR-00538,2026-01-27,NL,BMW,3 Series,Electric,Automatic,Independent dealer,9,164690,159,3,True,33,5740,7074,6077,8172,-18.9,Check underpricing
+CAR-02171,2026-01-27,DE,Audi,e-tron,Petrol,Manual,Franchise dealer,3,44631,219,1,True,34,43600,36411,31275,42057,19.7,Hold
+CAR-03002,2026-01-27,AT,Audi,A3,Hybrid,Automatic,Independent dealer,12,198437,127,3,True,82,5700,4841,4158,5592,17.7,Review markdown
+CAR-01004,2026-01-27,DE,Volkswagen,ID.3,Diesel,Automatic,Franchise dealer,2,52652,235,2,True,52,35670,28595,24562,33030,24.7,Review markdown
+CAR-00982,2026-01-27,DE,Volkswagen,ID.4,Diesel,Automatic,Independent dealer,8,170636,118,3,True,26,5930,6929,5952,8004,-14.4,Check underpricing
+CAR-03651,2026-01-27,DE,BMW,X1,Hybrid,Automatic,Franchise dealer,12,163740,139,5,True,40,5770,5808,4989,6709,-0.7,Hold
+CAR-04894,2026-01-28,DE,Volkswagen,Passat,Petrol,Automatic,Franchise dealer,8,77767,149,3,True,21,7870,9090,7808,10500,-13.4,Check underpricing
+CAR-03173,2026-01-28,NL,Skoda,Octavia,Electric,Manual,Independent dealer,4,80675,122,2,True,57,11700,12440,10685,14369,-5.9,Hold
+CAR-02981,2026-01-28,DE,Audi,A4,Diesel,Manual,Franchise dealer,3,68110,137,2,True,37,19990,19980,17162,23079,0.1,Hold
+CAR-03847,2026-01-28,DE,Volkswagen,Tiguan,Diesel,Automatic,Private,2,38962,130,1,True,61,25240,25480,21886,29431,-0.9,Hold
+CAR-03703,2026-01-29,DE,Volkswagen,Passat,Hybrid,Automatic,Independent dealer,6,85785,93,3,True,75,10830,10745,9230,12412,0.8,Hold
+CAR-01109,2026-01-29,DE,BMW,X3,Diesel,Automatic,Franchise dealer,6,100634,156,2,False,43,12380,12688,10899,14656,-2.4,Hold
+CAR-02206,2026-01-29,DE,Volkswagen,Passat,Petrol,Automatic,Franchise dealer,5,78832,120,2,True,21,15860,13300,11424,15362,19.2,Hold
+CAR-01566,2026-01-29,DE,BMW,3 Series,Electric,Automatic,Independent dealer,3,83585,208,1,True,9,22660,23509,20193,27155,-3.6,Hold
+CAR-00203,2026-01-29,DE,BMW,5 Series,Hybrid,Automatic,Franchise dealer,2,41188,122,1,True,22,37450,39846,34226,46025,-6.0,Hold
+CAR-04441,2026-01-29,DE,Audi,A4,Electric,Automatic,Independent dealer,13,294519,96,5,True,77,5570,3753,3223,4335,48.4,Review markdown
+CAR-04250,2026-01-29,NL,Audi,e-tron,Petrol,Automatic,Independent dealer,1,31831,170,1,False,125,56130,51185,43965,59123,9.7,Review markdown
+CAR-01204,2026-01-29,DE,BMW,5 Series,Hybrid,Manual,Franchise dealer,2,38927,191,2,True,57,48830,41010,35226,47370,19.1,Review markdown
+CAR-02732,2026-01-29,DE,Mercedes-Benz,GLA,Petrol,Automatic,Private,3,54186,204,2,False,30,19070,19543,16786,22573,-2.4,Hold
+CAR-04514,2026-01-30,DE,BMW,5 Series,Petrol,Automatic,Independent dealer,3,52036,186,2,True,35,30420,30289,26017,34986,0.4,Hold
+CAR-04708,2026-01-30,DE,BMW,3 Series,Petrol,Automatic,Independent dealer,5,83129,169,2,False,55,12530,12334,10595,14247,1.6,Hold
+CAR-02228,2026-01-30,DE,BMW,X1,Diesel,Automatic,Franchise dealer,10,198329,143,4,True,22,5820,5300,4553,6122,9.8,Hold
+CAR-00345,2026-01-30,DE,Volkswagen,ID.4,Electric,Automatic,Independent dealer,9,172033,120,4,True,60,5490,6744,5793,7790,-18.6,Check underpricing
+CAR-04383,2026-01-30,DE,Mercedes-Benz,C-Class,Diesel,Automatic,Independent dealer,5,91161,142,3,True,69,14300,14100,12111,16287,1.4,Hold
+CAR-02459,2026-01-30,DE,Mercedes-Benz,E-Class,Diesel,Automatic,Franchise dealer,2,54794,138,2,True,82,40050,37674,32360,43516,6.3,Review markdown
+CAR-02574,2026-01-30,DE,Mercedes-Benz,C-Class,Hybrid,Automatic,Independent dealer,3,40423,202,2,True,18,33840,29200,25081,33728,15.9,Hold
+CAR-00776,2026-01-31,DE,Volkswagen,Tiguan,Diesel,Automatic,Private,1,25314,111,1,True,56,29560,32960,28311,38071,-10.3,Check underpricing
+CAR-04630,2026-01-31,DE,Audi,Q3,Petrol,Automatic,Independent dealer,5,121674,84,2,True,42,11240,11250,9663,12995,-0.1,Hold
+CAR-02591,2026-01-31,AT,Skoda,Kodiaq,Diesel,Manual,Private,2,50672,242,2,True,60,27390,27981,24035,32320,-2.1,Hold
+CAR-01735,2026-01-31,AT,Volkswagen,ID.3,Petrol,Automatic,Private,3,42436,194,2,True,84,24810,21972,18873,25380,12.9,Review markdown
+CAR-02790,2026-01-31,DE,Volkswagen,Golf,Petrol,Automatic,Independent dealer,7,141194,84,3,True,33,5730,5863,5036,6773,-2.3,Hold
+CAR-03637,2026-01-31,DE,BMW,3 Series,Petrol,Automatic,Independent dealer,2,44481,89,2,True,71,25800,26016,22346,30050,-0.8,Hold
+CAR-03339,2026-01-31,DE,Mercedes-Benz,EQE,Diesel,Automatic,Franchise dealer,8,76401,106,4,True,47,12000,12941,11116,14948,-7.3,Hold
+CAR-04153,2026-01-31,DE,Mercedes-Benz,C-Class,Hybrid,Automatic,Private,6,131463,123,3,True,30,12220,10775,9255,12446,13.4,Hold
+CAR-01977,2026-01-31,DE,Skoda,Enyaq,Petrol,Automatic,Franchise dealer,6,48210,140,2,True,61,15960,14444,12407,16684,10.5,Review markdown
+CAR-00391,2026-01-31,DE,BMW,i4,Diesel,Automatic,Private,2,35835,152,2,True,35,40110,35588,30568,41106,12.7,Hold
+CAR-00661,2026-02-01,DE,Skoda,Kodiaq,Petrol,Automatic,Franchise dealer,3,47973,124,3,True,1,25790,21848,18767,25237,18.0,Hold
+CAR-04332,2026-02-01,DE,BMW,5 Series,Hybrid,Automatic,Private,3,66853,70,2,True,40,25790,24161,20753,27908,6.7,Hold
+CAR-04328,2026-02-01,DE,Volkswagen,Golf,Petrol,Automatic,Independent dealer,3,66227,172,2,True,23,18310,16629,14283,19207,10.1,Hold
+CAR-01998,2026-02-01,NL,Volkswagen,Passat,Petrol,Automatic,Franchise dealer,2,45239,198,1,True,39,26340,31303,26887,36157,-15.9,Check underpricing
+CAR-02478,2026-02-01,DE,Audi,Q3,Petrol,Automatic,Franchise dealer,13,222163,180,5,True,36,5880,4990,4286,5763,17.8,Hold
+CAR-02396,2026-02-02,DE,Audi,e-tron,Diesel,Automatic,Independent dealer,4,62293,139,3,True,59,27630,23808,20450,27501,16.1,Review markdown
+CAR-00446,2026-02-02,DE,Skoda,Karoq,Petrol,Manual,Private,7,116711,124,3,False,34,5310,5603,4813,6472,-5.2,Hold
+CAR-03967,2026-02-02,DE,BMW,X3,Diesel,Automatic,Independent dealer,13,168290,205,5,True,22,5820,7215,6198,8334,-19.3,Check underpricing
+CAR-02844,2026-02-02,DE,BMW,X3,Diesel,Automatic,Franchise dealer,2,29548,151,2,True,26,40260,38574,33133,44556,4.4,Hold
+CAR-02798,2026-02-02,DE,Volkswagen,Tiguan,Petrol,Manual,Private,9,118215,152,3,True,53,5860,6508,5590,7517,-10.0,Check underpricing
+CAR-04783,2026-02-02,DE,Mercedes-Benz,A-Class,Electric,Automatic,Independent dealer,4,47291,197,1,True,58,19590,19013,16331,21961,3.0,Hold
+CAR-00794,2026-02-03,NL,BMW,5 Series,Petrol,Automatic,Franchise dealer,4,60616,162,1,True,56,27710,25228,21669,29140,9.8,Review markdown
+CAR-04787,2026-02-03,DE,Volkswagen,ID.3,Petrol,Automatic,Franchise dealer,4,66120,186,2,True,13,18550,17467,15003,20176,6.2,Hold
+CAR-04369,2026-02-03,AT,Mercedes-Benz,A-Class,Diesel,Manual,Franchise dealer,3,75887,162,2,True,32,18420,18185,15620,21005,1.3,Hold
+CAR-03158,2026-02-03,AT,Skoda,Octavia,Diesel,Automatic,Franchise dealer,3,48054,163,2,True,19,16800,18178,15614,20997,-7.6,Hold
+CAR-00419,2026-02-03,DE,Skoda,Octavia,Diesel,Automatic,Private,13,222253,164,4,True,14,5720,3371,2895,3894,69.7,Hold
+CAR-02980,2026-02-03,DE,Volkswagen,Passat,Petrol,Automatic,Independent dealer,0,12840,173,1,True,11,50920,53231,45723,61486,-4.3,Hold
+CAR-03803,2026-02-04,DE,BMW,X1,Diesel,Automatic,Franchise dealer,1,17956,240,1,True,60,42800,45373,38974,52410,-5.7,Hold
+CAR-00198,2026-02-04,AT,BMW,i4,Petrol,Manual,Independent dealer,2,43293,147,1,True,4,37500,37667,32354,43508,-0.4,Hold
+CAR-03051,2026-02-04,DE,BMW,i4,Petrol,Automatic,Independent dealer,5,123403,118,2,True,11,16350,15783,13557,18230,3.6,Hold
+CAR-01689,2026-02-04,DE,Audi,Q3,Petrol,Automatic,Franchise dealer,6,92079,152,4,False,34,8950,9839,8451,11365,-9.0,Check underpricing
+CAR-01824,2026-02-05,AT,Volkswagen,Tiguan,Diesel,Automatic,Private,12,170249,117,5,True,139,5900,4694,4032,5422,25.7,Review markdown
+CAR-00846,2026-02-05,DE,Audi,A3,Electric,Automatic,Independent dealer,5,93398,109,2,True,30,11600,11634,9993,13439,-0.3,Hold
+CAR-01543,2026-02-05,DE,BMW,i4,Petrol,Automatic,Private,2,25963,96,3,True,20,36060,34124,29311,39416,5.7,Hold
+CAR-02419,2026-02-05,DE,Skoda,Enyaq,Petrol,Automatic,Franchise dealer,1,16474,119,1,False,47,35230,37014,31793,42753,-4.8,Hold
+CAR-02998,2026-02-05,NL,Skoda,Superb,Hybrid,Automatic,Franchise dealer,6,109563,207,3,True,12,13600,12604,10827,14559,7.9,Hold
+CAR-03085,2026-02-06,NL,Audi,e-tron,Electric,Automatic,Private,2,51191,197,2,True,58,48830,43446,37318,50183,12.4,Review markdown
+CAR-00669,2026-02-06,DE,Audi,A4,Diesel,Automatic,Franchise dealer,6,104626,164,3,True,21,12820,11349,9748,13109,13.0,Hold
+CAR-04702,2026-02-06,DE,Audi,Q5,Petrol,Automatic,Franchise dealer,6,126329,123,2,True,16,14020,13799,11853,15939,1.6,Hold
+CAR-02059,2026-02-07,DE,BMW,3 Series,Diesel,Automatic,Independent dealer,13,156213,70,5,True,25,4900,4680,4020,5406,4.7,Hold
+CAR-00975,2026-02-07,DE,Volkswagen,Golf,Electric,Automatic,Private,1,39915,124,1,True,50,21660,27040,23226,31233,-19.9,Check underpricing
+CAR-04899,2026-02-07,DE,Volkswagen,Tiguan,Petrol,Automatic,Franchise dealer,9,152875,138,3,True,165,6240,6872,5903,7938,-9.2,Check underpricing
+CAR-01341,2026-02-07,AT,Volkswagen,ID.3,Petrol,Manual,Independent dealer,3,51361,247,2,True,88,27600,22884,19656,26433,20.6,Review markdown
+CAR-04214,2026-02-07,DE,Mercedes-Benz,EQE,Hybrid,Automatic,Independent dealer,1,25611,241,1,True,20,75960,72791,62524,84079,4.4,Hold
+CAR-03358,2026-02-08,DE,Volkswagen,Golf,Diesel,Automatic,Franchise dealer,4,45575,116,2,True,49,14460,13304,11428,15368,8.7,Review markdown
+CAR-01568,2026-02-08,DE,Mercedes-Benz,E-Class,Hybrid,Manual,Independent dealer,5,59560,185,2,True,75,23120,21854,18772,25244,5.8,Review markdown
+CAR-00241,2026-02-08,DE,Volkswagen,ID.3,Electric,Automatic,Independent dealer,7,140818,102,3,True,111,7500,7782,6684,8989,-3.6,Hold
+CAR-03802,2026-02-08,DE,Audi,Q5,Petrol,Automatic,Independent dealer,6,87860,121,2,False,29,13890,12748,10950,14725,9.0,Hold
+CAR-02769,2026-02-09,DE,Skoda,Octavia,Petrol,Automatic,Independent dealer,4,46542,130,2,True,64,14820,13992,12019,16162,5.9,Review markdown
+CAR-04766,2026-02-09,DE,Volkswagen,Passat,Petrol,Manual,Private,5,50875,228,2,True,12,16830,14416,12383,16652,16.7,Hold
+CAR-00648,2026-02-09,DE,Volkswagen,Passat,Petrol,Manual,Independent dealer,4,56263,112,2,True,19,18160,15242,13093,17606,19.1,Hold
+CAR-04716,2026-02-09,DE,Audi,A3,Petrol,Manual,Independent dealer,6,85845,146,2,True,22,10490,9686,8320,11188,8.3,Hold
+CAR-03670,2026-02-09,DE,Audi,e-tron,Petrol,Automatic,Franchise dealer,8,84221,189,3,True,138,14860,14639,12574,16909,1.5,Hold
+CAR-03965,2026-02-09,DE,BMW,5 Series,Petrol,Automatic,Private,10,185313,136,5,True,32,5330,6570,5644,7589,-18.9,Check underpricing
+CAR-04324,2026-02-09,AT,BMW,3 Series,Petrol,Automatic,Franchise dealer,0,7064,70,1,True,23,58210,52034,44695,60103,11.9,Hold
+CAR-01972,2026-02-09,DE,Volkswagen,Tiguan,Hybrid,Automatic,Independent dealer,7,164033,115,4,True,28,7130,7696,6610,8889,-7.4,Hold
+CAR-02681,2026-02-09,AT,Skoda,Enyaq,Electric,Automatic,Independent dealer,4,84770,106,2,True,35,18320,17779,15272,20537,3.0,Hold
+CAR-02809,2026-02-10,AT,BMW,3 Series,Hybrid,Automatic,Independent dealer,3,44047,150,3,True,8,26870,24207,20793,27961,11.0,Hold
+CAR-03640,2026-02-10,DE,Audi,A4,Diesel,Manual,Franchise dealer,7,110520,75,3,True,9,6370,7964,6841,9199,-20.0,Check underpricing
+CAR-00542,2026-02-10,DE,Volkswagen,ID.3,Petrol,Automatic,Independent dealer,8,98939,176,4,True,63,7350,8115,6971,9374,-9.4,Check underpricing
+CAR-03093,2026-02-10,DE,Skoda,Octavia,Petrol,Automatic,Franchise dealer,4,70644,86,2,True,98,12380,12621,10841,14578,-1.9,Hold
+CAR-00525,2026-02-10,DE,Audi,A3,Hybrid,Automatic,Independent dealer,8,81867,91,3,True,40,6870,7725,6635,8923,-11.1,Check underpricing
+CAR-04754,2026-02-11,DE,Skoda,Enyaq,Petrol,Automatic,Franchise dealer,3,70480,163,2,True,52,25350,23814,20455,27507,6.4,Review markdown
+CAR-03014,2026-02-11,NL,Audi,A4,Petrol,Automatic,Franchise dealer,5,113544,248,3,True,19,15250,15280,13125,17650,-0.2,Hold
+CAR-03147,2026-02-11,DE,Volkswagen,ID.3,Petrol,Automatic,Independent dealer,2,32545,181,1,True,57,29780,29225,25103,33757,1.9,Hold
+CAR-02057,2026-02-11,DE,Mercedes-Benz,EQE,Petrol,Manual,Independent dealer,7,147801,156,3,True,57,11550,12402,10653,14326,-6.9,Hold
+CAR-00578,2026-02-11,DE,Skoda,Karoq,Petrol,Manual,Independent dealer,3,52123,88,1,True,14,17400,16127,13852,18627,7.9,Hold
+CAR-04469,2026-02-11,DE,Audi,Q5,Diesel,Manual,Franchise dealer,7,123786,129,3,True,57,9310,10889,9353,12578,-14.5,Check underpricing
+CAR-04173,2026-02-12,AT,Audi,Q5,Petrol,Automatic,Independent dealer,3,47115,102,2,True,29,32890,28579,24548,33011,15.1,Hold
+CAR-01025,2026-02-12,DE,Audi,Q3,Petrol,Manual,Franchise dealer,7,98484,181,3,True,44,10820,9914,8515,11451,9.1,Hold
+CAR-00183,2026-02-12,DE,Audi,Q5,Petrol,Automatic,Independent dealer,1,18737,99,1,True,9,48850,49302,42348,56947,-0.9,Hold
+CAR-01338,2026-02-12,DE,Skoda,Kodiaq,Electric,Manual,Franchise dealer,2,54877,197,1,True,14,30080,30744,26407,35511,-2.2,Hold
+CAR-00332,2026-02-13,DE,Volkswagen,Tiguan,Petrol,Automatic,Franchise dealer,2,52681,233,2,True,58,37370,31468,27029,36348,18.8,Review markdown
+CAR-03415,2026-02-13,DE,Audi,Q3,Diesel,Automatic,Independent dealer,3,65536,132,1,True,28,21920,20477,17588,23652,7.0,Hold
+CAR-03745,2026-02-13,DE,Volkswagen,Tiguan,Diesel,Automatic,Franchise dealer,3,67530,146,1,True,33,21650,20979,18020,24232,3.2,Hold
+CAR-03937,2026-02-13,DE,Volkswagen,Tiguan,Petrol,Automatic,Independent dealer,3,35051,220,3,True,35,28760,24608,21137,28424,16.9,Hold
+CAR-00228,2026-02-13,DE,Volkswagen,Golf,Electric,Automatic,Franchise dealer,5,64431,200,3,True,51,14640,12630,10848,14588,15.9,Review markdown
+CAR-04500,2026-02-14,DE,BMW,X3,Electric,Automatic,Private,5,119019,143,2,True,102,16780,16082,13814,18576,4.3,Hold
+CAR-00336,2026-02-14,DE,BMW,5 Series,Petrol,Automatic,Independent dealer,6,125864,165,3,True,13,13050,13531,11622,15629,-3.6,Hold
+CAR-03345,2026-02-14,DE,Volkswagen,Tiguan,Petrol,Manual,Independent dealer,7,119177,161,4,True,16,8120,8302,7131,9590,-2.2,Hold
+CAR-04331,2026-02-14,DE,Skoda,Karoq,Petrol,Manual,Franchise dealer,3,55861,127,1,True,33,18510,17624,15138,20357,5.0,Hold
+CAR-00939,2026-02-14,DE,BMW,3 Series,Petrol,Automatic,Private,9,142539,132,2,True,12,5610,6558,5633,7576,-14.5,Check underpricing
+CAR-02460,2026-02-15,DE,Skoda,Karoq,Petrol,Automatic,Private,5,65525,111,1,True,34,12360,11073,9511,12790,11.6,Hold
+CAR-04636,2026-02-15,DE,Audi,A3,Petrol,Automatic,Franchise dealer,3,43728,183,2,True,34,21890,21781,18709,25159,0.5,Hold
+CAR-02734,2026-02-15,DE,Audi,A4,Petrol,Automatic,Franchise dealer,10,133876,124,4,True,117,5750,6747,5795,7793,-14.8,Check underpricing
+CAR-02407,2026-02-15,DE,Audi,A3,Petrol,Automatic,Independent dealer,0,14436,172,1,True,38,41040,48702,41833,56255,-15.7,Check underpricing
+CAR-04859,2026-02-15,DE,Audi,e-tron,Diesel,Automatic,Independent dealer,3,49746,133,1,True,73,32360,31496,27053,36380,2.7,Hold
+CAR-00455,2026-02-16,DE,BMW,3 Series,Petrol,Automatic,Private,3,49642,92,2,True,76,21100,19443,16700,22458,8.5,Review markdown
+CAR-04719,2026-02-16,DE,BMW,X3,Diesel,Automatic,Franchise dealer,1,29840,236,1,True,54,55880,56858,48839,65676,-1.7,Hold
+CAR-01707,2026-02-16,DE,Audi,A4,Electric,Manual,Franchise dealer,1,47375,154,1,True,61,39640,38845,33366,44869,2.0,Hold
+CAR-04431,2026-02-16,DE,Skoda,Octavia,Petrol,Manual,Independent dealer,3,41591,191,1,True,16,20310,18154,15593,20969,11.9,Hold
+CAR-02347,2026-02-16,NL,Volkswagen,Tiguan,Diesel,Automatic,Private,13,175882,149,5,False,9,6010,4002,3438,4623,50.2,Hold
+CAR-03991,2026-02-17,DE,Mercedes-Benz,EQE,Diesel,Manual,Franchise dealer,3,72766,180,1,True,20,35200,32219,27675,37215,9.3,Hold
+CAR-02116,2026-02-17,DE,Audi,A4,Diesel,Automatic,Franchise dealer,7,155644,207,3,True,60,8410,9182,7887,10606,-8.4,Check underpricing
+CAR-04213,2026-02-17,AT,BMW,X3,Electric,Manual,Independent dealer,4,120512,202,2,True,66,22520,21294,18291,24596,5.8,Review markdown
+CAR-01656,2026-02-17,DE,Audi,A4,Diesel,Automatic,Franchise dealer,0,11744,106,1,True,11,47680,51515,44249,59504,-7.4,Hold
+CAR-01980,2026-02-17,DE,Skoda,Kodiaq,Diesel,Automatic,Franchise dealer,3,80072,203,3,True,64,21340,21622,18572,24975,-1.3,Hold
+CAR-01491,2026-02-17,DE,Volkswagen,Golf,Electric,Manual,Independent dealer,4,79742,70,3,True,50,11120,10745,9229,12411,3.5,Hold
+CAR-01535,2026-02-17,DE,Mercedes-Benz,GLA,Hybrid,Manual,Franchise dealer,3,81029,92,3,True,10,18540,18939,16268,21876,-2.1,Hold
+CAR-03238,2026-02-17,DE,Audi,A3,Hybrid,Manual,Franchise dealer,8,176134,70,3,True,9,5530,5539,4757,6398,-0.2,Hold
+CAR-01489,2026-02-17,DE,Mercedes-Benz,GLA,Petrol,Automatic,Private,9,216210,167,4,True,15,5610,5430,4664,6272,3.3,Hold
+CAR-00434,2026-02-18,DE,BMW,X3,Hybrid,Manual,Independent dealer,8,179551,163,3,False,39,5890,7834,6729,9049,-24.8,Check underpricing
+CAR-03140,2026-02-18,DE,Audi,A4,Petrol,Automatic,Independent dealer,1,22999,197,1,False,5,40620,37344,32077,43136,8.8,Hold
+CAR-02044,2026-02-18,DE,Skoda,Kodiaq,Petrol,Automatic,Franchise dealer,6,107484,171,3,True,52,10550,11639,9998,13444,-9.4,Check underpricing
+CAR-03914,2026-02-18,DE,Audi,e-tron,Electric,Automatic,Independent dealer,2,52232,217,1,True,47,45880,47607,40892,54990,-3.6,Hold
+CAR-01309,2026-02-18,DE,Skoda,Superb,Diesel,Automatic,Independent dealer,2,42621,115,1,True,13,24240,25929,22272,29950,-6.5,Hold
+CAR-02124,2026-02-19,DE,Audi,A4,Hybrid,Automatic,Independent dealer,3,54474,132,1,True,13,25980,23853,20488,27552,8.9,Hold
+CAR-02338,2026-02-19,DE,Mercedes-Benz,A-Class,Hybrid,Manual,Franchise dealer,4,75907,130,2,False,10,11970,12977,11147,14990,-7.8,Hold
+CAR-02353,2026-02-19,DE,Mercedes-Benz,GLA,Petrol,Automatic,Franchise dealer,5,58774,162,3,True,25,18100,15551,13357,17962,16.4,Hold
+CAR-04252,2026-02-19,DE,BMW,i4,Diesel,Automatic,Franchise dealer,13,224479,106,4,True,46,6040,5864,5037,6773,3.0,Hold
+CAR-02385,2026-02-20,DE,Volkswagen,Golf,Diesel,Automatic,Franchise dealer,5,109750,116,3,True,42,8700,8991,7723,10386,-3.2,Hold
+CAR-04948,2026-02-20,DE,Volkswagen,Passat,Petrol,Automatic,Franchise dealer,3,57384,128,1,True,46,21620,21539,18501,24880,0.4,Hold
+CAR-00284,2026-02-20,DE,Mercedes-Benz,E-Class,Petrol,Automatic,Franchise dealer,3,60281,185,2,True,54,37730,32949,28302,38059,14.5,Review markdown
+CAR-04626,2026-02-20,DE,Volkswagen,ID.3,Petrol,Automatic,Independent dealer,2,39677,131,1,True,17,27950,26365,22646,30454,6.0,Hold
+CAR-04154,2026-02-20,DE,Mercedes-Benz,E-Class,Hybrid,Manual,Franchise dealer,3,45592,182,2,True,24,40930,34011,29214,39285,20.3,Hold
+CAR-01433,2026-02-21,AT,BMW,i4,Petrol,Manual,Independent dealer,2,26904,144,3,True,27,42900,37778,32449,43636,13.6,Hold
+CAR-04825,2026-02-21,DE,Audi,A3,Petrol,Automatic,Franchise dealer,4,74272,161,2,True,5,15280,15697,13483,18131,-2.7,Hold
+CAR-02566,2026-02-21,DE,BMW,X1,Electric,Automatic,Private,13,220468,84,5,True,69,5550,4089,3512,4723,35.7,Review markdown
+CAR-01414,2026-02-21,DE,BMW,X1,Petrol,Automatic,Franchise dealer,3,69060,125,3,True,48,21450,20390,17514,23552,5.2,Review markdown
+CAR-02146,2026-02-21,DE,BMW,3 Series,Diesel,Automatic,Independent dealer,4,81102,131,1,True,15,17480,15979,13725,18457,9.4,Hold
+CAR-02832,2026-02-21,DE,Mercedes-Benz,A-Class,Hybrid,Automatic,Franchise dealer,4,62552,143,2,True,141,18460,17417,14960,20118,6.0,Review markdown
+CAR-04840,2026-02-21,AT,Skoda,Octavia,Hybrid,Automatic,Franchise dealer,4,55393,173,2,True,29,17860,16298,13999,18825,9.6,Hold
+CAR-02366,2026-02-22,DE,Audi,Q5,Petrol,Automatic,Independent dealer,4,80520,153,2,True,10,23230,22196,19066,25639,4.7,Hold
+CAR-04779,2026-02-22,DE,Volkswagen,Passat,Petrol,Manual,Franchise dealer,4,81741,97,2,True,40,14000,14332,12310,16554,-2.3,Hold
+CAR-02427,2026-02-22,NL,Volkswagen,Tiguan,Petrol,Automatic,Independent dealer,2,45569,75,2,True,38,27360,24874,21366,28732,10.0,Hold
+CAR-04977,2026-02-23,DE,BMW,3 Series,Hybrid,Automatic,Franchise dealer,8,185298,178,4,True,37,6380,7589,6518,8765,-15.9,Check underpricing
+CAR-00816,2026-02-23,NL,Skoda,Kodiaq,Petrol,Automatic,Independent dealer,4,53666,80,2,True,40,19850,16554,14219,19121,19.9,Hold
+CAR-02749,2026-02-23,NL,BMW,5 Series,Diesel,Automatic,Private,1,37568,157,1,True,34,42140,45532,39110,52593,-7.4,Hold
+CAR-00999,2026-02-23,DE,Audi,A4,Electric,Automatic,Franchise dealer,3,61662,157,2,True,34,21800,24243,20824,28003,-10.1,Check underpricing
+CAR-01070,2026-02-23,DE,Skoda,Superb,Diesel,Automatic,Franchise dealer,9,108169,175,4,True,31,6750,7558,6492,8730,-10.7,Check underpricing
+CAR-04135,2026-02-23,DE,BMW,i4,Electric,Automatic,Private,10,150676,168,3,True,55,6080,8679,7455,10025,-29.9,Check underpricing
+CAR-01852,2026-02-23,DE,Mercedes-Benz,E-Class,Hybrid,Automatic,Franchise dealer,5,52247,113,3,True,26,25590,21368,18354,24682,19.8,Hold
+CAR-03582,2026-02-23,DE,Audi,Q5,Hybrid,Automatic,Independent dealer,3,64433,97,2,True,15,29610,27589,23697,31867,7.3,Hold
+CAR-00001,2026-02-23,DE,Mercedes-Benz,C-Class,Hybrid,Automatic,Franchise dealer,4,76863,166,3,True,13,20210,20563,17662,23751,-1.7,Hold
+CAR-01513,2026-02-23,NL,Volkswagen,Golf,Petrol,Automatic,Franchise dealer,4,51788,184,1,True,49,16600,15633,13428,18058,6.2,Review markdown
+CAR-04709,2026-02-23,DE,Audi,Q3,Diesel,Manual,Franchise dealer,6,120274,133,3,True,26,9480,9518,8175,10994,-0.4,Hold
+CAR-00734,2026-02-24,DE,BMW,5 Series,Petrol,Manual,Franchise dealer,5,120837,225,3,False,66,14180,14676,12606,16952,-3.4,Hold
+CAR-03393,2026-02-24,DE,BMW,5 Series,Petrol,Automatic,Franchise dealer,6,92984,106,2,False,39,12280,12405,10655,14329,-1.0,Hold
+CAR-01287,2026-02-24,DE,Audi,A4,Hybrid,Manual,Independent dealer,6,111377,205,3,False,28,9150,10141,8710,11713,-9.8,Check underpricing
+CAR-00085,2026-02-24,DE,BMW,5 Series,Diesel,Manual,Franchise dealer,4,80053,76,2,True,25,19530,18001,15462,20792,8.5,Hold
+CAR-03824,2026-02-24,DE,Volkswagen,Tiguan,Electric,Automatic,Independent dealer,12,158205,176,5,True,50,5640,5859,5033,6768,-3.7,Hold
+CAR-03232,2026-02-24,NL,Mercedes-Benz,C-Class,Electric,Automatic,Independent dealer,6,95213,193,3,True,6,15990,14017,12040,16191,14.1,Hold
+CAR-02817,2026-02-25,DE,Mercedes-Benz,GLA,Diesel,Automatic,Franchise dealer,7,90888,165,3,True,15,9840,10199,8760,11780,-3.5,Hold
+CAR-03550,2026-02-25,DE,Skoda,Karoq,Petrol,Automatic,Franchise dealer,2,43270,155,1,True,21,23800,25299,21730,29222,-5.9,Hold
+CAR-03889,2026-02-25,DE,Audi,A4,Diesel,Automatic,Independent dealer,7,109867,192,4,True,68,8880,9658,8296,11156,-8.1,Check underpricing
+CAR-01636,2026-02-25,NL,Audi,A4,Electric,Automatic,Private,10,140230,148,3,True,79,5770,6760,5806,7808,-14.6,Check underpricing
+CAR-02564,2026-02-25,DE,Volkswagen,ID.3,Petrol,Manual,Franchise dealer,2,34759,129,2,True,48,27340,25495,21899,29448,7.2,Review markdown
+CAR-02036,2026-02-26,DE,Skoda,Karoq,Diesel,Automatic,Franchise dealer,6,106169,165,2,False,86,7560,8146,6997,9409,-7.2,Hold
+CAR-04095,2026-02-26,DE,Audi,A4,Hybrid,Manual,Independent dealer,5,98227,89,3,True,1,12380,12005,10312,13867,3.1,Hold
+CAR-03052,2026-02-26,NL,Volkswagen,Golf,Hybrid,Manual,Independent dealer,5,79388,159,3,True,45,10760,10649,9147,12301,1.0,Hold
+CAR-01679,2026-02-26,DE,Mercedes-Benz,A-Class,Electric,Automatic,Private,4,71163,206,1,True,35,16810,16817,14445,19425,-0.0,Hold
+CAR-00115,2026-02-26,DE,Skoda,Karoq,Diesel,Automatic,Franchise dealer,6,101006,140,3,True,137,9630,9133,7845,10549,5.4,Review markdown
+CAR-01817,2026-02-26,AT,Mercedes-Benz,C-Class,Petrol,Automatic,Private,0,15892,188,1,True,14,58270,60663,52106,70070,-3.9,Hold
+CAR-04499,2026-02-27,DE,Volkswagen,ID.3,Petrol,Manual,Independent dealer,1,20858,153,1,True,58,33280,35054,30109,40490,-5.1,Hold
+CAR-04223,2026-02-27,NL,BMW,X1,Electric,Manual,Franchise dealer,8,176053,161,4,True,61,5650,7100,6098,8201,-20.4,Check underpricing
+CAR-04897,2026-02-27,DE,Mercedes-Benz,E-Class,Petrol,Manual,Franchise dealer,7,132524,131,3,True,22,11270,11574,9941,13369,-2.6,Hold
+CAR-01017,2026-02-27,DE,Volkswagen,ID.3,Hybrid,Automatic,Independent dealer,9,211876,151,4,False,17,5660,4699,4036,5427,20.5,Hold
+CAR-02444,2026-02-27,DE,Mercedes-Benz,C-Class,Petrol,Automatic,Franchise dealer,8,120896,189,4,True,30,9320,9675,8310,11175,-3.7,Hold
+CAR-01978,2026-02-27,AT,Volkswagen,ID.4,Petrol,Manual,Private,1,32909,205,2,True,68,41160,39960,34323,46156,3.0,Hold
+CAR-04625,2026-02-27,DE,Volkswagen,Tiguan,Hybrid,Automatic,Private,2,44074,142,2,True,43,28220,27373,23512,31618,3.1,Hold
+CAR-04580,2026-02-28,DE,Volkswagen,Golf,Petrol,Automatic,Private,13,202122,135,4,True,89,5280,3509,3014,4053,50.5,Review markdown
+CAR-04665,2026-02-28,DE,Audi,A4,Hybrid,Automatic,Franchise dealer,5,71002,156,3,True,38,16770,15964,13713,18440,5.0,Hold
+CAR-02536,2026-02-28,DE,Volkswagen,Tiguan,Diesel,Manual,Franchise dealer,4,71113,70,2,True,20,15110,13786,11841,15924,9.6,Hold
+CAR-02055,2026-02-28,DE,Mercedes-Benz,A-Class,Petrol,Automatic,Franchise dealer,2,39128,145,1,True,48,27910,27277,23429,31507,2.3,Hold
+CAR-02931,2026-02-28,AT,BMW,i4,Electric,Automatic,Independent dealer,4,64455,126,3,True,31,31940,23840,20478,27537,34.0,Hold
+CAR-03318,2026-02-28,DE,BMW,5 Series,Diesel,Manual,Independent dealer,3,51015,154,1,True,6,28050,26767,22991,30918,4.8,Hold
+CAR-04504,2026-03-01,DE,BMW,5 Series,Petrol,Automatic,Independent dealer,4,101542,102,2,True,28,17270,18886,16222,21815,-8.6,Check underpricing
+CAR-04870,2026-03-01,DE,Mercedes-Benz,E-Class,Diesel,Automatic,Franchise dealer,4,88137,199,1,True,46,30350,24939,21421,28806,21.7,Review markdown
+CAR-00459,2026-03-01,DE,Volkswagen,Passat,Petrol,Manual,Franchise dealer,5,99890,106,2,True,35,11210,11543,9915,13333,-2.9,Hold
+CAR-00281,2026-03-01,DE,BMW,X3,Electric,Automatic,Franchise dealer,1,44344,72,1,True,23,43570,46078,39579,53223,-5.4,Hold
+CAR-04276,2026-03-01,DE,Audi,A4,Electric,Automatic,Franchise dealer,2,39806,110,1,True,44,33810,30890,26533,35680,9.5,Hold
+CAR-00351,2026-03-01,DE,BMW,3 Series,Petrol,Manual,Franchise dealer,8,185001,145,3,True,22,5580,6577,5649,7597,-15.2,Check underpricing
+CAR-00965,2026-03-01,DE,Mercedes-Benz,C-Class,Petrol,Automatic,Franchise dealer,4,83619,165,2,True,64,20620,19650,16878,22697,4.9,Hold
+CAR-03507,2026-03-01,NL,Volkswagen,ID.4,Diesel,Automatic,Franchise dealer,9,132776,135,4,True,12,5790,7382,6341,8527,-21.6,Check underpricing
+CAR-03675,2026-03-01,DE,Skoda,Kodiaq,Diesel,Automatic,Franchise dealer,4,93035,205,3,True,49,18050,17061,14655,19707,5.8,Review markdown
+CAR-01590,2026-03-02,DE,BMW,3 Series,Diesel,Automatic,Independent dealer,6,126521,194,4,True,30,9980,10255,8808,11845,-2.7,Hold
+CAR-01784,2026-03-02,DE,Audi,A4,Petrol,Manual,Franchise dealer,2,60154,98,2,False,90,22540,21612,18564,24964,4.3,Hold
+CAR-02130,2026-03-02,AT,BMW,i4,Petrol,Automatic,Franchise dealer,13,177316,155,5,True,39,4900,7526,6465,8693,-34.9,Check underpricing
+CAR-01501,2026-03-02,DE,Skoda,Octavia,Petrol,Automatic,Private,7,128508,116,5,True,79,5940,5922,5086,6840,0.3,Hold
+CAR-02394,2026-03-03,NL,Mercedes-Benz,GLA,Diesel,Manual,Franchise dealer,5,81696,137,2,True,64,14380,13249,11380,15303,8.5,Review markdown
+CAR-04623,2026-03-03,DE,Skoda,Superb,Diesel,Automatic,Independent dealer,4,71157,190,3,True,71,19760,16767,14402,19368,17.9,Review markdown
+CAR-02551,2026-03-03,NL,Mercedes-Benz,GLA,Diesel,Automatic,Franchise dealer,12,232422,135,4,True,74,5620,4643,3988,5363,21.0,Review markdown
+CAR-01177,2026-03-03,DE,Audi,Q3,Petrol,Manual,Independent dealer,8,98387,157,3,False,23,6220,7070,6073,8166,-12.0,Check underpricing
+CAR-02139,2026-03-03,NL,Volkswagen,Golf,Petrol,Automatic,Independent dealer,2,42365,141,1,True,29,21330,22184,19055,25624,-3.8,Hold
+CAR-04878,2026-03-04,DE,Audi,Q3,Petrol,Manual,Independent dealer,5,107077,151,1,True,56,11350,12597,10820,14550,-9.9,Check underpricing
+CAR-02703,2026-03-04,DE,Volkswagen,ID.4,Diesel,Automatic,Independent dealer,13,280908,117,5,True,31,5500,3837,3296,4433,43.3,Hold
+CAR-02569,2026-03-04,DE,Skoda,Enyaq,Diesel,Manual,Franchise dealer,7,153197,130,4,False,136,6230,6869,5900,7934,-9.3,Check underpricing
+CAR-02968,2026-03-04,DE,Mercedes-Benz,A-Class,Petrol,Automatic,Independent dealer,5,61623,131,3,True,112,14270,12721,10926,14693,12.2,Review markdown
+CAR-00918,2026-03-04,DE,Audi,A3,Hybrid,Automatic,Independent dealer,6,91974,141,3,True,21,9720,10367,8905,11975,-6.2,Hold
+CAR-04226,2026-03-04,DE,Volkswagen,Golf,Diesel,Manual,Franchise dealer,2,49338,214,1,True,66,23890,22336,19186,25800,7.0,Review markdown
+CAR-00873,2026-03-05,NL,Audi,e-tron,Petrol,Automatic,Independent dealer,3,59205,175,1,True,15,43160,34075,29269,39359,26.7,Hold
+CAR-04218,2026-03-05,DE,Skoda,Karoq,Diesel,Automatic,Independent dealer,2,30214,130,2,True,95,22940,23283,19999,26893,-1.5,Hold
+CAR-01419,2026-03-05,NL,Skoda,Kodiaq,Electric,Manual,Independent dealer,3,45717,146,2,True,84,21780,22778,19565,26310,-4.4,Hold
+CAR-02176,2026-03-05,DE,Audi,e-tron,Diesel,Automatic,Independent dealer,8,105548,118,3,True,70,9900,11384,9779,13150,-13.0,Check underpricing
+CAR-04866,2026-03-05,DE,Audi,Q5,Diesel,Automatic,Franchise dealer,9,130120,127,5,True,18,7340,8746,7512,10102,-16.1,Check underpricing
+CAR-01895,2026-03-05,DE,BMW,X3,Electric,Manual,Franchise dealer,2,47472,70,1,True,98,34170,33955,29166,39220,0.6,Hold
+CAR-04510,2026-03-06,NL,Mercedes-Benz,GLA,Hybrid,Manual,Independent dealer,6,97595,149,3,True,57,10940,11435,9822,13208,-4.3,Hold
+CAR-02128,2026-03-06,DE,BMW,i4,Hybrid,Automatic,Franchise dealer,6,51285,200,3,True,9,23590,20060,17230,23170,17.6,Hold
+CAR-01295,2026-03-06,DE,Audi,A3,Diesel,Automatic,Franchise dealer,1,30287,74,1,True,25,26400,30061,25821,34723,-12.2,Check underpricing
+CAR-00073,2026-03-06,DE,Audi,e-tron,Petrol,Automatic,Franchise dealer,2,42646,168,1,True,39,46600,45342,38947,52374,2.8,Hold
+CAR-00368,2026-03-06,DE,Audi,A4,Hybrid,Automatic,Franchise dealer,2,40475,145,2,True,25,32560,32073,27549,37047,1.5,Hold
+CAR-00818,2026-03-07,DE,Volkswagen,Tiguan,Electric,Automatic,Franchise dealer,4,58872,156,2,True,43,21170,19015,16333,21964,11.3,Hold
+CAR-03969,2026-03-07,DE,BMW,5 Series,Petrol,Manual,Franchise dealer,6,135137,105,2,True,72,12530,12116,10407,13994,3.4,Hold
+CAR-04147,2026-03-07,DE,Volkswagen,Tiguan,Hybrid,Automatic,Independent dealer,13,216313,226,5,True,72,5150,5405,4643,6243,-4.7,Hold
+CAR-03409,2026-03-07,DE,BMW,X1,Electric,Automatic,Independent dealer,13,254116,226,5,True,56,5240,4871,4184,5626,7.6,Review markdown
+CAR-00591,2026-03-07,DE,Mercedes-Benz,E-Class,Petrol,Manual,Independent dealer,3,70724,127,2,True,91,31140,26816,23034,30975,16.1,Review markdown
+CAR-04108,2026-03-07,AT,Skoda,Octavia,Petrol,Automatic,Independent dealer,5,71914,141,3,True,28,13180,11029,9474,12740,19.5,Hold
+CAR-01701,2026-03-08,DE,Skoda,Enyaq,Diesel,Manual,Private,1,21714,116,1,True,5,31760,34429,29572,39768,-7.8,Hold
+CAR-00194,2026-03-08,DE,BMW,i4,Diesel,Automatic,Franchise dealer,2,68905,76,1,True,77,36420,32320,27762,37333,12.7,Review markdown
+CAR-04094,2026-03-09,DE,BMW,5 Series,Petrol,Automatic,Independent dealer,4,110191,136,2,True,104,22980,19676,16901,22728,16.8,Review markdown
+CAR-01721,2026-03-09,DE,Audi,Q5,Diesel,Manual,Independent dealer,4,57242,159,2,True,35,26700,21773,18702,25150,22.6,Hold
+CAR-03061,2026-03-09,DE,Mercedes-Benz,C-Class,Diesel,Automatic,Independent dealer,4,48541,185,2,True,36,22310,20737,17812,23952,7.6,Hold
+CAR-00163,2026-03-10,DE,BMW,X1,Electric,Automatic,Independent dealer,9,119549,113,4,True,28,6430,7103,6101,8204,-9.5,Check underpricing
+CAR-00081,2026-03-10,DE,Audi,A4,Petrol,Automatic,Independent dealer,8,150678,129,3,True,122,6520,7546,6482,8716,-13.6,Check underpricing
+CAR-03877,2026-03-10,DE,Skoda,Octavia,Diesel,Automatic,Independent dealer,8,121184,151,4,True,89,5900,5967,5125,6892,-1.1,Hold
+CAR-04790,2026-03-10,NL,Mercedes-Benz,EQE,Diesel,Manual,Franchise dealer,5,84713,125,3,True,22,24270,18993,16314,21939,27.8,Hold
+CAR-01822,2026-03-10,DE,Mercedes-Benz,E-Class,Diesel,Manual,Independent dealer,4,60201,181,2,True,26,28100,23341,20049,26961,20.4,Hold
+CAR-00565,2026-03-11,DE,Volkswagen,ID.4,Diesel,Automatic,Independent dealer,3,74967,244,2,True,19,26310,24254,20833,28015,8.5,Hold
+CAR-00390,2026-03-11,DE,Volkswagen,Golf,Hybrid,Automatic,Independent dealer,8,144350,158,2,True,79,6100,6374,5475,7363,-4.3,Hold
+CAR-02892,2026-03-11,DE,Volkswagen,Passat,Petrol,Automatic,Franchise dealer,6,140044,178,4,True,48,10680,9964,8559,11509,7.2,Review markdown
+CAR-04591,2026-03-11,DE,Mercedes-Benz,EQE,Petrol,Automatic,Independent dealer,2,38334,159,1,True,43,39590,46436,39886,53637,-14.7,Check underpricing
+CAR-03145,2026-03-11,DE,Volkswagen,ID.3,Diesel,Automatic,Franchise dealer,1,26167,123,1,True,33,34800,34611,29729,39978,0.5,Hold
+CAR-00650,2026-03-12,DE,Audi,Q3,Petrol,Automatic,Franchise dealer,3,67922,90,2,True,21,22290,19959,17144,23055,11.7,Hold
+CAR-03461,2026-03-12,DE,Volkswagen,ID.4,Hybrid,Automatic,Franchise dealer,5,96290,138,2,True,9,17490,15373,13205,17757,13.8,Hold
+CAR-01602,2026-03-12,DE,Volkswagen,ID.3,Diesel,Manual,Independent dealer,8,111663,80,4,True,5,5910,6041,5189,6978,-2.2,Hold
+CAR-01962,2026-03-12,AT,Mercedes-Benz,A-Class,Hybrid,Automatic,Independent dealer,9,160066,182,3,True,75,5360,6847,5881,7909,-21.7,Check underpricing
+CAR-04138,2026-03-13,DE,Volkswagen,Golf,Petrol,Manual,Independent dealer,4,44855,158,2,True,8,13480,13361,11476,15433,0.9,Hold
+CAR-02743,2026-03-13,DE,Volkswagen,Golf,Hybrid,Automatic,Independent dealer,3,43037,145,1,True,40,18310,18654,16023,21547,-1.8,Hold
+CAR-00996,2026-03-13,AT,Volkswagen,Passat,Diesel,Automatic,Franchise dealer,5,89039,144,1,False,44,11700,11705,10054,13520,-0.0,Hold
+CAR-00325,2026-03-13,DE,Volkswagen,Golf,Petrol,Automatic,Independent dealer,3,56825,153,2,True,60,16650,16733,14373,19328,-0.5,Hold
+CAR-04325,2026-03-13,DE,Mercedes-Benz,E-Class,Petrol,Automatic,Independent dealer,10,159809,112,3,True,31,5970,8146,6997,9409,-26.7,Check underpricing
+CAR-03533,2026-03-13,DE,BMW,i4,Electric,Automatic,Private,9,159731,144,3,True,37,7240,8729,7498,10083,-17.1,Check underpricing
+CAR-01874,2026-03-14,DE,Skoda,Karoq,Diesel,Automatic,Independent dealer,2,23485,222,1,True,25,24390,27515,23634,31782,-11.4,Check underpricing
+CAR-04414,2026-03-14,DE,Audi,A3,Diesel,Automatic,Franchise dealer,5,106988,176,2,True,42,12140,11809,10144,13641,2.8,Hold
+CAR-00933,2026-03-14,AT,Volkswagen,ID.3,Petrol,Automatic,Private,3,59183,124,2,True,68,19440,18792,16142,21707,3.4,Hold
+CAR-01799,2026-03-15,DE,Volkswagen,Golf,Diesel,Automatic,Independent dealer,1,35055,175,2,True,40,27950,28177,24203,32547,-0.8,Hold
+CAR-04450,2026-03-15,DE,Volkswagen,ID.3,Petrol,Manual,Independent dealer,1,4654,110,1,True,45,33270,35209,30243,40669,-5.5,Hold
+CAR-00360,2026-03-15,DE,Skoda,Karoq,Diesel,Automatic,Independent dealer,5,131662,139,3,True,14,9060,9261,7955,10697,-2.2,Hold
+CAR-01110,2026-03-15,DE,BMW,5 Series,Diesel,Automatic,Private,4,94057,179,1,True,34,21780,20141,17300,23264,8.1,Hold
+CAR-01699,2026-03-15,AT,Volkswagen,ID.3,Electric,Manual,Independent dealer,2,28704,106,1,True,30,25520,26656,22897,30790,-4.3,Hold
+CAR-01172,2026-03-15,DE,Audi,A4,Diesel,Automatic,Independent dealer,10,139638,74,4,True,48,5670,5619,4827,6491,0.9,Hold
+CAR-01482,2026-03-15,DE,Mercedes-Benz,A-Class,Petrol,Automatic,Franchise dealer,1,26327,199,1,True,84,41970,39415,33856,45527,6.5,Review markdown
+CAR-00679,2026-03-16,DE,Audi,A4,Hybrid,Manual,Franchise dealer,10,152543,152,5,True,58,5710,6434,5526,7431,-11.3,Check underpricing
+CAR-00239,2026-03-16,NL,BMW,X1,Hybrid,Automatic,Private,8,167116,168,2,True,45,6840,7550,6486,8721,-9.4,Check underpricing
+CAR-02995,2026-03-16,DE,Mercedes-Benz,E-Class,Diesel,Automatic,Franchise dealer,3,59241,203,3,True,28,33680,31633,27172,36539,6.5,Hold
+CAR-03671,2026-03-16,DE,Volkswagen,Golf,Petrol,Automatic,Independent dealer,6,111453,145,3,True,18,7540,8016,6886,9260,-5.9,Hold
+CAR-00928,2026-03-17,DE,Mercedes-Benz,C-Class,Diesel,Automatic,Independent dealer,2,29045,164,3,False,42,28350,27339,23483,31579,3.7,Hold
+CAR-01147,2026-03-17,DE,Volkswagen,ID.4,Diesel,Automatic,Private,12,165635,142,3,True,14,5840,5428,4662,6270,7.6,Hold
+CAR-03301,2026-03-17,DE,Audi,Q5,Diesel,Automatic,Franchise dealer,5,73882,76,1,True,53,19930,17204,14778,19872,15.8,Review markdown
+CAR-03987,2026-03-17,DE,Mercedes-Benz,E-Class,Electric,Automatic,Franchise dealer,5,110977,118,2,True,73,19810,18500,15890,21368,7.1,Review markdown
+CAR-00563,2026-03-17,DE,Volkswagen,Passat,Petrol,Automatic,Franchise dealer,8,132057,94,3,True,53,6010,7179,6166,8292,-16.3,Check underpricing
+CAR-04647,2026-03-17,DE,BMW,i4,Diesel,Automatic,Franchise dealer,3,71125,188,2,True,47,30020,29689,25501,34293,1.1,Hold
+CAR-02957,2026-03-17,DE,BMW,5 Series,Petrol,Manual,Independent dealer,5,76093,210,2,True,26,21760,18762,16116,21671,16.0,Hold
+CAR-01938,2026-03-17,AT,Audi,Q5,Hybrid,Automatic,Independent dealer,13,280280,149,5,True,42,5620,5678,4877,6559,-1.0,Hold
+CAR-02567,2026-03-17,DE,BMW,3 Series,Electric,Automatic,Private,4,87203,109,3,True,41,13780,14852,12757,17155,-7.2,Hold
+CAR-04629,2026-03-17,DE,Audi,A4,Electric,Manual,Franchise dealer,8,159417,251,3,True,74,7230,8804,7562,10169,-17.9,Check underpricing
+CAR-02840,2026-03-18,AT,Volkswagen,Golf,Petrol,Automatic,Franchise dealer,1,27478,91,1,True,121,28840,29247,25122,33782,-1.4,Hold
+CAR-04274,2026-03-18,DE,BMW,X1,Petrol,Automatic,Private,6,124689,95,4,True,21,9090,8589,7377,9920,5.8,Hold
+CAR-04944,2026-03-18,DE,Mercedes-Benz,C-Class,Hybrid,Automatic,Private,3,69978,70,1,False,56,19000,18186,15621,21007,4.5,Hold
+CAR-03346,2026-03-18,DE,Volkswagen,Tiguan,Electric,Manual,Franchise dealer,5,70466,170,3,True,72,15890,14473,12432,16717,9.8,Review markdown
+CAR-01770,2026-03-18,AT,Mercedes-Benz,C-Class,Hybrid,Automatic,Franchise dealer,11,157814,200,3,True,44,5830,8059,6922,9309,-27.7,Check underpricing
+CAR-01448,2026-03-19,AT,Volkswagen,ID.4,Electric,Automatic,Private,2,43605,175,1,True,120,33500,33348,28645,38520,0.5,Hold
+CAR-00128,2026-03-19,DE,BMW,5 Series,Hybrid,Automatic,Franchise dealer,4,61364,196,2,False,62,24050,23088,19831,26668,4.2,Hold
+CAR-04334,2026-03-19,DE,Volkswagen,ID.3,Hybrid,Automatic,Independent dealer,5,95719,89,2,True,31,12890,11867,10194,13708,8.6,Hold
+CAR-03141,2026-03-19,DE,BMW,X3,Diesel,Manual,Franchise dealer,3,50461,235,1,True,11,34610,31237,26831,36081,10.8,Hold
+CAR-01791,2026-03-20,DE,Audi,Q5,Hybrid,Manual,Independent dealer,8,151231,74,4,True,32,6650,8522,7320,9843,-22.0,Check underpricing
+CAR-01466,2026-03-20,DE,Mercedes-Benz,GLA,Diesel,Automatic,Independent dealer,3,81258,165,1,True,34,23220,20829,17891,24059,11.5,Hold
+CAR-00952,2026-03-20,AT,Audi,e-tron,Diesel,Automatic,Private,4,53697,167,2,True,29,33390,25210,21654,29119,32.4,Hold
+CAR-00350,2026-03-20,DE,Volkswagen,ID.4,Electric,Automatic,Franchise dealer,6,64421,155,3,True,39,17120,14322,12302,16543,19.5,Hold
+CAR-03404,2026-03-20,DE,Skoda,Karoq,Petrol,Automatic,Franchise dealer,4,60791,164,3,True,16,15520,15171,13031,17524,2.3,Hold
+CAR-04046,2026-03-20,DE,Audi,e-tron,Diesel,Automatic,Franchise dealer,5,84501,115,2,True,15,23960,18948,16276,21887,26.5,Hold
+CAR-00500,2026-03-20,DE,Volkswagen,Golf,Electric,Manual,Private,3,73078,148,1,True,62,14690,15031,12911,17362,-2.3,Hold
+CAR-01377,2026-03-20,DE,Skoda,Kodiaq,Petrol,Manual,Private,3,53073,155,2,True,51,22980,19950,17136,23044,15.2,Review markdown
+CAR-00240,2026-03-20,DE,Volkswagen,ID.3,Petrol,Automatic,Private,1,28236,131,2,True,36,35470,32176,27637,37165,10.2,Hold
+CAR-03559,2026-03-20,DE,Mercedes-Benz,GLA,Petrol,Automatic,Franchise dealer,7,117830,165,3,False,40,6750,8465,7271,9778,-20.3,Check underpricing
+CAR-01418,2026-03-21,DE,Skoda,Kodiaq,Petrol,Automatic,Independent dealer,0,24398,182,1,True,46,48450,54477,46793,62925,-11.1,Check underpricing
+CAR-03762,2026-03-21,DE,BMW,i4,Petrol,Manual,Franchise dealer,4,72951,70,3,True,15,23210,19148,16447,22118,21.2,Hold
+CAR-04722,2026-03-21,DE,Audi,Q5,Petrol,Automatic,Private,6,116208,144,2,True,59,13640,13440,11544,15524,1.5,Hold
+CAR-04406,2026-03-21,NL,Skoda,Karoq,Petrol,Automatic,Private,9,100471,129,3,True,36,5950,6065,5209,7005,-1.9,Hold
+CAR-02160,2026-03-21,DE,Mercedes-Benz,A-Class,Petrol,Manual,Franchise dealer,3,68565,149,2,True,18,18420,18372,15781,21221,0.3,Hold
+CAR-04811,2026-03-21,DE,Volkswagen,Golf,Petrol,Manual,Independent dealer,3,42537,160,2,True,41,17150,16568,14231,19137,3.5,Hold
+CAR-00883,2026-03-22,DE,Mercedes-Benz,EQE,Diesel,Automatic,Franchise dealer,3,50966,213,1,True,23,49470,38246,32852,44177,29.3,Hold
+CAR-03701,2026-03-22,AT,Audi,e-tron,Electric,Automatic,Franchise dealer,2,31279,134,2,True,18,55100,46794,40193,54050,17.8,Hold
+CAR-02350,2026-03-22,DE,BMW,5 Series,Hybrid,Automatic,Independent dealer,6,101332,70,2,True,65,13260,13659,11733,15778,-2.9,Hold
+CAR-01362,2026-03-22,DE,Volkswagen,Tiguan,Diesel,Automatic,Private,0,11647,117,1,False,20,38830,38959,33464,45001,-0.3,Hold
+CAR-02026,2026-03-22,DE,Volkswagen,Golf,Petrol,Automatic,Independent dealer,2,32143,143,1,True,16,24930,22611,19422,26117,10.3,Hold
+CAR-03585,2026-03-23,AT,Volkswagen,ID.3,Petrol,Automatic,Independent dealer,8,121878,100,3,True,18,6120,7099,6097,8200,-13.8,Check underpricing
+CAR-01851,2026-03-23,DE,Skoda,Octavia,Electric,Manual,Franchise dealer,4,57078,198,2,True,43,17690,15171,13032,17524,16.6,Hold
+CAR-00823,2026-03-23,DE,Volkswagen,ID.3,Petrol,Automatic,Private,4,55219,95,3,True,18,18820,13971,12000,16138,34.7,Hold
+CAR-00798,2026-03-23,AT,Volkswagen,Golf,Petrol,Automatic,Franchise dealer,5,83125,124,1,True,41,10550,11064,9504,12780,-4.6,Hold
+CAR-00342,2026-03-23,DE,Volkswagen,ID.4,Diesel,Automatic,Private,1,30138,170,2,True,152,36080,38598,33154,44583,-6.5,Hold
+CAR-01150,2026-03-23,DE,BMW,3 Series,Petrol,Automatic,Independent dealer,3,76593,190,1,True,49,24770,22547,19367,26044,9.9,Review markdown
+CAR-00346,2026-03-24,DE,Skoda,Enyaq,Diesel,Automatic,Private,9,184503,95,4,True,5,5560,5364,4608,6196,3.7,Hold
+CAR-00372,2026-03-24,DE,Audi,A4,Diesel,Manual,Franchise dealer,10,144792,219,4,True,17,5680,6672,5731,7706,-14.9,Check underpricing
+CAR-04337,2026-03-24,DE,BMW,X1,Hybrid,Automatic,Independent dealer,8,157377,123,2,True,48,6140,7588,6518,8765,-19.1,Check underpricing
+CAR-00636,2026-03-24,DE,Volkswagen,Golf,Electric,Manual,Franchise dealer,4,52112,225,2,False,13,13720,13309,11432,15373,3.1,Hold
+CAR-02227,2026-03-24,DE,BMW,i4,Petrol,Automatic,Franchise dealer,5,110175,144,3,True,28,17330,17271,14835,19949,0.3,Hold
+CAR-03719,2026-03-24,DE,Mercedes-Benz,A-Class,Electric,Automatic,Private,8,176293,152,4,True,48,5740,6021,5172,6954,-4.7,Hold
+CAR-02357,2026-03-24,AT,Mercedes-Benz,C-Class,Petrol,Automatic,Franchise dealer,6,79438,181,3,True,14,15090,14526,12477,16778,3.9,Hold
+CAR-04817,2026-03-24,DE,Mercedes-Benz,E-Class,Petrol,Automatic,Franchise dealer,1,18324,118,1,True,41,60530,55575,47736,64194,8.9,Hold
+CAR-02250,2026-03-24,DE,Mercedes-Benz,C-Class,Diesel,Automatic,Independent dealer,0,2668,71,1,True,17,45950,53810,46220,62155,-14.6,Check underpricing
+CAR-01954,2026-03-24,DE,Skoda,Superb,Petrol,Automatic,Independent dealer,6,82054,181,4,True,30,16480,11583,9949,13379,42.3,Hold
+CAR-03953,2026-03-25,DE,Volkswagen,ID.4,Hybrid,Automatic,Franchise dealer,6,86404,124,3,True,46,14490,12994,11161,15009,11.5,Review markdown
+CAR-01667,2026-03-25,DE,Audi,Q5,Diesel,Automatic,Private,1,15249,125,1,True,45,50580,47420,40732,54774,6.7,Hold
+CAR-04618,2026-03-25,DE,Mercedes-Benz,A-Class,Electric,Automatic,Independent dealer,2,14733,89,2,True,26,25210,26662,22901,30796,-5.4,Hold
+CAR-02586,2026-03-25,DE,Audi,e-tron,Electric,Automatic,Independent dealer,7,146522,180,3,True,57,13570,13516,11610,15612,0.4,Hold
+CAR-03964,2026-03-25,DE,Audi,Q3,Electric,Automatic,Franchise dealer,4,80064,182,2,True,38,21370,19026,16342,21976,12.3,Hold
+CAR-01477,2026-03-25,AT,Skoda,Enyaq,Diesel,Automatic,Independent dealer,8,71206,157,4,True,51,10290,9817,8433,11340,4.8,Hold
+CAR-04167,2026-03-26,DE,Audi,A4,Hybrid,Automatic,Independent dealer,2,45477,141,1,True,132,36370,31613,27154,36515,15.0,Review markdown
+CAR-01281,2026-03-26,DE,Audi,A4,Petrol,Automatic,Franchise dealer,5,61760,70,3,True,133,14450,13721,11786,15849,5.3,Review markdown
+CAR-01641,2026-03-26,DE,BMW,X3,Electric,Automatic,Franchise dealer,8,110716,143,5,True,78,12700,11180,9603,12914,13.6,Review markdown
+CAR-01237,2026-03-27,DE,Mercedes-Benz,GLA,Diesel,Manual,Independent dealer,4,75966,105,1,True,67,13790,14946,12838,17264,-7.7,Hold
+CAR-02204,2026-03-27,DE,Audi,Q3,Diesel,Automatic,Private,5,97025,173,3,True,50,11830,12250,10522,14150,-3.4,Hold
+CAR-03511,2026-03-27,DE,Volkswagen,Golf,Petrol,Manual,Independent dealer,3,53730,188,1,True,25,17380,17031,14629,19672,2.0,Hold
+CAR-02628,2026-03-27,DE,Audi,A3,Petrol,Automatic,Franchise dealer,10,202408,163,4,True,100,5880,5052,4339,5835,16.4,Review markdown
+CAR-00091,2026-03-27,DE,Volkswagen,ID.4,Petrol,Automatic,Independent dealer,3,48243,174,2,True,91,28360,25191,21638,29098,12.6,Review markdown
+CAR-04742,2026-03-27,DE,Volkswagen,Golf,Petrol,Automatic,Private,3,59326,191,1,True,56,17290,16922,14535,19546,2.2,Hold
+CAR-03995,2026-03-27,DE,BMW,5 Series,Hybrid,Automatic,Private,9,157530,105,4,True,61,7030,7897,6784,9122,-11.0,Check underpricing
+CAR-04142,2026-03-27,DE,BMW,X3,Electric,Manual,Independent dealer,2,26854,106,1,True,32,35030,36816,31623,42525,-4.9,Hold
+CAR-01397,2026-03-28,DE,Skoda,Enyaq,Petrol,Manual,Independent dealer,2,24963,95,1,False,61,27030,24669,21189,28494,9.6,Review markdown
+CAR-03534,2026-03-28,DE,Volkswagen,Passat,Electric,Manual,Independent dealer,5,110932,211,4,True,121,13090,12715,10921,14687,2.9,Hold
+CAR-03835,2026-03-28,DE,Mercedes-Benz,GLA,Diesel,Automatic,Private,6,120117,128,2,True,39,9090,9510,8168,10984,-4.4,Hold
+CAR-01921,2026-03-28,AT,Audi,A3,Electric,Manual,Independent dealer,3,45403,70,2,True,16,18160,17736,15234,20486,2.4,Hold
+CAR-01772,2026-03-28,DE,Volkswagen,Passat,Diesel,Automatic,Private,11,252279,126,5,True,34,5740,3653,3138,4220,57.1,Hold
+CAR-01354,2026-03-28,DE,Skoda,Enyaq,Petrol,Automatic,Franchise dealer,8,155036,130,4,True,36,5780,7746,6654,8948,-25.4,Check underpricing
+CAR-02480,2026-03-28,DE,Mercedes-Benz,EQE,Petrol,Automatic,Franchise dealer,4,66071,146,2,True,32,30350,27691,23785,31986,9.6,Hold
+CAR-04605,2026-03-29,DE,Audi,e-tron,Petrol,Automatic,Private,4,102703,179,3,True,41,25930,21947,18852,25351,18.1,Hold
+CAR-03633,2026-03-29,DE,Audi,Q5,Electric,Automatic,Franchise dealer,3,41578,191,2,True,66,43110,35096,30146,40539,22.8,Review markdown
+CAR-04743,2026-03-29,DE,Audi,e-tron,Diesel,Automatic,Independent dealer,10,167197,193,4,False,62,5390,7617,6543,8798,-29.2,Check underpricing
+CAR-01867,2026-03-29,DE,BMW,5 Series,Diesel,Automatic,Independent dealer,3,53955,141,3,True,36,31110,26450,22719,30552,17.6,Hold
+CAR-04273,2026-03-29,DE,Skoda,Octavia,Diesel,Manual,Independent dealer,9,188280,145,5,True,44,5830,4081,3505,4714,42.9,Hold
+CAR-02826,2026-03-30,DE,Mercedes-Benz,E-Class,Hybrid,Automatic,Independent dealer,3,49921,138,2,True,47,35200,32432,27857,37461,8.5,Review markdown
+CAR-03966,2026-03-30,DE,Mercedes-Benz,C-Class,Petrol,Automatic,Franchise dealer,1,26086,98,1,True,15,40340,41768,35877,48245,-3.4,Hold
+CAR-01118,2026-03-30,DE,Audi,A4,Electric,Automatic,Independent dealer,3,47056,94,2,True,30,21760,22179,19051,25619,-1.9,Hold
+CAR-00994,2026-03-30,DE,Skoda,Superb,Hybrid,Automatic,Franchise dealer,3,49715,103,2,True,29,23280,22242,19105,25691,4.7,Hold
+CAR-02988,2026-03-30,AT,BMW,5 Series,Diesel,Automatic,Franchise dealer,7,98642,138,3,True,117,14470,12787,10983,14770,13.2,Review markdown
+CAR-03041,2026-03-30,DE,Skoda,Enyaq,Hybrid,Automatic,Franchise dealer,4,73811,157,3,False,48,19000,16955,14563,19584,12.1,Review markdown
+CAR-00311,2026-03-30,DE,Audi,A3,Petrol,Automatic,Independent dealer,9,183890,173,4,False,66,5610,4766,4094,5505,17.7,Review markdown
+CAR-03973,2026-03-31,DE,BMW,X1,Petrol,Automatic,Independent dealer,9,197538,108,3,True,38,6000,5569,4784,6433,7.7,Hold
+CAR-04561,2026-03-31,DE,Audi,Q5,Electric,Automatic,Independent dealer,7,103442,147,2,True,10,14970,13468,11569,15557,11.2,Hold
+CAR-00466,2026-03-31,DE,Volkswagen,Passat,Petrol,Manual,Independent dealer,6,138788,125,3,False,21,6700,7355,6318,8496,-8.9,Check underpricing
+CAR-04078,2026-03-31,DE,BMW,5 Series,Petrol,Automatic,Independent dealer,5,60242,227,2,True,47,27580,21436,18413,24761,28.7,Review markdown
+CAR-04148,2026-03-31,DE,Mercedes-Benz,C-Class,Diesel,Automatic,Independent dealer,3,60187,109,2,True,45,23560,21843,18762,25231,7.9,Hold
+CAR-01694,2026-03-31,DE,Volkswagen,ID.4,Hybrid,Automatic,Franchise dealer,2,34364,180,1,True,154,43260,37570,32270,43396,15.1,Review markdown
+CAR-00427,2026-03-31,DE,Volkswagen,ID.4,Diesel,Automatic,Independent dealer,5,93840,167,4,False,33,13050,11621,9981,13423,12.3,Hold
+CAR-01492,2026-03-31,NL,Volkswagen,Golf,Petrol,Manual,Private,7,148121,101,3,True,8,5830,5298,4551,6120,10.0,Hold
+CAR-00549,2026-03-31,DE,Mercedes-Benz,C-Class,Petrol,Automatic,Independent dealer,5,115304,70,2,False,16,10190,10634,9134,12284,-4.2,Hold
+CAR-02946,2026-03-31,DE,Audi,Q5,Diesel,Automatic,Private,9,124514,135,3,True,25,7620,8610,7396,9946,-11.5,Check underpricing
+CAR-01151,2026-04-01,DE,Skoda,Octavia,Hybrid,Automatic,Franchise dealer,6,115128,103,2,True,9,8680,8533,7329,9856,1.7,Hold
+CAR-02890,2026-04-01,DE,BMW,3 Series,Diesel,Automatic,Independent dealer,2,34533,78,1,True,44,25860,25849,22203,29858,0.0,Hold
+CAR-01756,2026-04-01,DE,BMW,3 Series,Petrol,Automatic,Independent dealer,8,57594,175,4,True,33,11180,9906,8509,11442,12.9,Hold
+CAR-01659,2026-04-01,AT,BMW,X3,Electric,Automatic,Independent dealer,6,140382,115,3,True,51,11720,13126,11274,15161,-10.7,Check underpricing
+CAR-03642,2026-04-01,DE,Volkswagen,ID.4,Electric,Automatic,Independent dealer,13,146676,171,5,True,37,5650,6560,5635,7578,-13.9,Check underpricing
+CAR-01863,2026-04-01,DE,Mercedes-Benz,C-Class,Diesel,Automatic,Independent dealer,5,104683,146,3,False,58,11830,11687,10039,13500,1.2,Hold
+CAR-02430,2026-04-01,DE,Volkswagen,Passat,Petrol,Manual,Franchise dealer,7,130159,89,4,True,36,6800,7335,6301,8473,-7.3,Hold
+CAR-01673,2026-04-02,DE,BMW,i4,Hybrid,Manual,Franchise dealer,4,90442,155,2,True,43,24940,22712,19508,26234,9.8,Hold
+CAR-00117,2026-04-02,DE,Volkswagen,ID.3,Petrol,Automatic,Private,6,92311,214,3,False,24,10410,9185,7890,10610,13.3,Hold
+CAR-00226,2026-04-02,DE,BMW,5 Series,Petrol,Automatic,Private,2,43393,96,1,True,71,36840,32890,28251,37991,12.0,Review markdown
+CAR-03718,2026-04-03,DE,Skoda,Superb,Hybrid,Automatic,Independent dealer,4,105480,114,2,False,13,14100,13019,11183,15038,8.3,Hold
+CAR-02446,2026-04-03,DE,BMW,3 Series,Hybrid,Automatic,Franchise dealer,1,19870,235,2,True,77,50130,48845,41956,56420,2.6,Hold
+CAR-01711,2026-04-03,AT,Audi,e-tron,Diesel,Automatic,Independent dealer,4,36309,142,2,True,25,32910,27201,23364,31419,21.0,Hold
+CAR-00479,2026-04-03,DE,Audi,Q3,Electric,Manual,Independent dealer,3,55528,187,1,True,39,24040,23439,20133,27074,2.6,Hold
+CAR-04215,2026-04-03,NL,BMW,X1,Electric,Manual,Franchise dealer,1,15326,164,1,False,74,36050,36926,31718,42653,-2.4,Hold
+CAR-03391,2026-04-03,DE,Volkswagen,Passat,Diesel,Automatic,Independent dealer,4,66426,225,2,True,39,18800,17830,15315,20595,5.4,Hold
+CAR-02376,2026-04-03,DE,Skoda,Kodiaq,Hybrid,Automatic,Franchise dealer,3,54693,106,1,True,7,28160,23157,19891,26748,21.6,Hold
+CAR-01052,2026-04-04,DE,Audi,e-tron,Diesel,Automatic,Franchise dealer,3,52081,111,2,False,22,31600,25965,22303,29992,21.7,Hold
+CAR-04777,2026-04-04,DE,BMW,3 Series,Diesel,Automatic,Franchise dealer,3,67215,121,2,True,79,22360,20412,17533,23577,9.5,Review markdown
+CAR-03646,2026-04-04,DE,Audi,Q3,Electric,Automatic,Independent dealer,5,95506,166,3,False,16,12400,11997,10305,13857,3.4,Hold
+CAR-00511,2026-04-04,DE,Volkswagen,ID.4,Electric,Automatic,Franchise dealer,5,95461,165,3,True,81,16800,15627,13423,18050,7.5,Review markdown
+CAR-02971,2026-04-04,DE,Volkswagen,ID.4,Diesel,Automatic,Independent dealer,3,50072,154,1,True,48,26970,23802,20445,27494,13.3,Review markdown
+CAR-00961,2026-04-05,DE,Mercedes-Benz,A-Class,Diesel,Automatic,Independent dealer,6,133642,113,3,True,51,7260,8185,7031,9454,-11.3,Check underpricing
+CAR-00290,2026-04-05,DE,Volkswagen,Passat,Diesel,Automatic,Franchise dealer,7,126540,201,3,True,13,9180,9147,7857,10566,0.4,Hold
+CAR-03466,2026-04-05,DE,Volkswagen,Passat,Hybrid,Automatic,Franchise dealer,6,115836,132,3,True,27,10580,10778,9258,12449,-1.8,Hold
+CAR-04298,2026-04-05,DE,Mercedes-Benz,C-Class,Electric,Automatic,Franchise dealer,6,102882,151,2,True,11,13180,13511,11605,15606,-2.4,Hold
+CAR-03033,2026-04-06,DE,Audi,Q5,Diesel,Automatic,Independent dealer,0,11652,124,1,True,73,62070,66780,57360,77136,-7.1,Hold
+CAR-03351,2026-04-06,DE,BMW,3 Series,Diesel,Automatic,Franchise dealer,2,47566,125,2,True,13,25330,26909,23113,31082,-5.9,Hold
+CAR-00191,2026-04-06,NL,Audi,Q3,Petrol,Automatic,Franchise dealer,3,52133,158,2,True,70,24400,23795,20439,27485,2.5,Hold
+CAR-00672,2026-04-07,NL,Skoda,Superb,Petrol,Automatic,Franchise dealer,4,80854,120,1,True,44,20250,16801,14431,19406,20.5,Hold
+CAR-02762,2026-04-07,DE,BMW,3 Series,Petrol,Manual,Independent dealer,7,169762,107,3,False,18,5300,5996,5150,6926,-11.6,Check underpricing
+CAR-00119,2026-04-08,DE,Volkswagen,Golf,Electric,Automatic,Franchise dealer,11,184531,148,4,True,39,5480,4409,3787,5093,24.3,Hold
+CAR-00493,2026-04-08,AT,Audi,Q3,Petrol,Automatic,Independent dealer,1,26889,160,1,True,29,43340,41103,35305,47477,5.4,Hold
+CAR-04559,2026-04-08,DE,Volkswagen,ID.3,Petrol,Automatic,Franchise dealer,4,77414,154,1,True,18,18410,16553,14218,19120,11.2,Hold
+CAR-00343,2026-04-08,DE,Mercedes-Benz,GLA,Petrol,Automatic,Independent dealer,1,27989,152,1,True,19,36890,39732,34128,45894,-7.2,Hold
+CAR-02495,2026-04-09,DE,Mercedes-Benz,EQE,Electric,Automatic,Franchise dealer,6,95340,175,1,True,17,19630,20296,17433,23443,-3.3,Hold
+CAR-03936,2026-04-09,DE,Audi,Q3,Petrol,Manual,Independent dealer,3,39652,118,2,True,42,22270,20754,17827,23973,7.3,Hold
+CAR-02870,2026-04-09,DE,Volkswagen,ID.3,Petrol,Automatic,Independent dealer,3,66358,131,2,True,8,17660,18980,16303,21923,-7.0,Hold
+CAR-02799,2026-04-09,DE,Volkswagen,ID.4,Diesel,Automatic,Independent dealer,1,32819,162,1,True,13,38630,40242,34566,46482,-4.0,Hold
+CAR-00801,2026-04-09,AT,Audi,Q5,Petrol,Automatic,Independent dealer,2,48810,139,2,True,43,47810,37686,32370,43530,26.9,Hold
+CAR-03198,2026-04-10,DE,BMW,3 Series,Petrol,Manual,Private,1,28731,193,1,True,40,34100,36935,31726,42663,-7.7,Hold
+CAR-00721,2026-04-10,NL,Mercedes-Benz,GLA,Diesel,Manual,Private,5,96008,97,3,True,45,10260,10567,9076,12206,-2.9,Hold
+CAR-01273,2026-04-10,NL,Mercedes-Benz,C-Class,Petrol,Manual,Private,10,185628,253,4,False,82,5080,5619,4826,6490,-9.6,Check underpricing
+CAR-04187,2026-04-10,NL,BMW,X3,Petrol,Automatic,Franchise dealer,4,86154,226,1,True,39,26570,25653,22035,29631,3.6,Hold
+CAR-02486,2026-04-10,DE,Volkswagen,Golf,Petrol,Automatic,Independent dealer,12,137324,121,5,True,16,4900,4226,3630,4881,15.9,Hold
+CAR-04367,2026-04-11,DE,Mercedes-Benz,C-Class,Petrol,Automatic,Independent dealer,10,182040,126,4,False,105,6220,5312,4563,6136,17.1,Review markdown
+CAR-02976,2026-04-11,DE,Volkswagen,Tiguan,Petrol,Automatic,Private,2,46824,184,1,True,125,30100,28298,24307,32687,6.4,Review markdown
+CAR-00693,2026-04-11,DE,Audi,Q5,Petrol,Manual,Private,1,33883,208,2,True,11,50590,47588,40876,54968,6.3,Hold
+CAR-01242,2026-04-11,DE,Audi,A4,Petrol,Automatic,Franchise dealer,4,65374,207,3,True,75,20620,19796,17004,22866,4.2,Hold
+CAR-03321,2026-04-11,DE,Mercedes-Benz,C-Class,Petrol,Automatic,Independent dealer,1,22859,153,1,True,46,39780,44677,38376,51606,-11.0,Check underpricing
+CAR-02398,2026-04-11,DE,BMW,i4,Diesel,Automatic,Independent dealer,4,93218,70,3,True,44,20200,17899,15374,20675,12.9,Hold
+CAR-03362,2026-04-11,DE,Mercedes-Benz,A-Class,Petrol,Manual,Independent dealer,4,62558,214,2,True,43,17870,16278,13982,18802,9.8,Hold
+CAR-00138,2026-04-11,AT,Volkswagen,Passat,Diesel,Automatic,Independent dealer,1,23848,188,2,True,14,40300,38668,33214,44664,4.2,Hold
+CAR-02423,2026-04-11,DE,BMW,X3,Diesel,Manual,Private,8,140076,134,3,True,12,7330,8310,7138,9599,-11.8,Check underpricing
+CAR-02063,2026-04-12,DE,BMW,X1,Electric,Automatic,Independent dealer,6,106814,110,3,True,86,11910,10633,9133,12282,12.0,Review markdown
+CAR-04925,2026-04-12,DE,Audi,A3,Diesel,Automatic,Franchise dealer,2,49883,231,1,True,32,29200,27998,24049,32340,4.3,Hold
+CAR-02712,2026-04-12,DE,Audi,A4,Electric,Automatic,Franchise dealer,2,57698,181,2,True,8,32510,31560,27108,36454,3.0,Hold
+CAR-01386,2026-04-12,AT,Volkswagen,Tiguan,Electric,Automatic,Franchise dealer,2,59694,108,2,True,54,25580,27701,23794,31997,-7.7,Hold
+CAR-04415,2026-04-12,DE,Volkswagen,Golf,Diesel,Automatic,Franchise dealer,6,113854,82,2,True,7,6870,7330,6296,8467,-6.3,Hold
+CAR-00618,2026-04-12,DE,BMW,i4,Hybrid,Automatic,Franchise dealer,8,148426,251,4,False,55,10050,10666,9161,12320,-5.8,Hold
+CAR-03462,2026-04-13,DE,BMW,X1,Petrol,Automatic,Independent dealer,3,68890,139,1,True,35,20780,21111,18133,24385,-1.6,Hold
+CAR-03175,2026-04-13,DE,BMW,i4,Electric,Automatic,Franchise dealer,8,92029,84,3,True,73,10760,11625,9986,13428,-7.4,Hold
+CAR-01809,2026-04-13,DE,BMW,X1,Hybrid,Automatic,Franchise dealer,11,258846,156,5,False,29,5920,4029,3460,4653,46.9,Hold
+CAR-00799,2026-04-13,DE,Volkswagen,Golf,Petrol,Manual,Private,7,171096,157,2,True,40,5890,5503,4726,6356,7.0,Hold
+CAR-04168,2026-04-13,DE,Mercedes-Benz,EQE,Diesel,Automatic,Independent dealer,5,129414,123,3,True,7,18430,16831,14457,19441,9.5,Hold
+CAR-03859,2026-04-13,DE,BMW,i4,Electric,Automatic,Independent dealer,6,85097,151,2,True,10,15520,16550,14216,19117,-6.2,Hold
+CAR-00981,2026-04-13,DE,Volkswagen,Passat,Diesel,Automatic,Independent dealer,5,70233,141,2,True,85,14440,13214,11350,15263,9.3,Review markdown
+CAR-01749,2026-04-14,DE,Mercedes-Benz,A-Class,Petrol,Manual,Franchise dealer,6,83835,195,3,True,36,11560,10766,9247,12435,7.4,Hold
+CAR-01572,2026-04-14,DE,Mercedes-Benz,EQE,Petrol,Manual,Independent dealer,10,177816,103,5,True,31,6180,7584,6514,8760,-18.5,Check underpricing
+CAR-04287,2026-04-14,DE,BMW,3 Series,Hybrid,Automatic,Independent dealer,5,75082,172,1,True,57,17940,16043,13781,18531,11.8,Review markdown
+CAR-00579,2026-04-14,DE,Audi,Q5,Diesel,Manual,Private,5,78344,160,1,True,68,19030,16644,14296,19225,14.3,Review markdown
+CAR-01958,2026-04-15,DE,Volkswagen,Golf,Hybrid,Manual,Independent dealer,9,190716,124,4,True,13,5350,4307,3699,4974,24.2,Hold
+CAR-03992,2026-04-15,DE,BMW,i4,Hybrid,Automatic,Franchise dealer,4,84228,206,2,True,27,30410,26339,22624,30423,15.5,Hold
+CAR-00867,2026-04-15,DE,Volkswagen,Tiguan,Hybrid,Automatic,Franchise dealer,6,117625,98,2,True,92,10670,10716,9204,12377,-0.4,Hold
+CAR-01288,2026-04-15,DE,Mercedes-Benz,C-Class,Diesel,Automatic,Independent dealer,1,24570,72,1,True,11,34550,37304,32043,43089,-7.4,Hold
+CAR-04114,2026-04-15,DE,Volkswagen,ID.4,Hybrid,Automatic,Franchise dealer,2,32117,146,1,True,50,36890,35427,30430,40921,4.1,Hold
+CAR-01103,2026-04-15,DE,Volkswagen,Golf,Electric,Automatic,Private,2,29452,135,1,True,69,21320,22376,19220,25846,-4.7,Hold
+CAR-00532,2026-04-16,NL,Audi,Q5,Diesel,Automatic,Franchise dealer,10,144190,213,5,True,61,6670,9068,7789,10475,-26.4,Check underpricing
+CAR-04710,2026-04-16,DE,Volkswagen,ID.4,Diesel,Automatic,Franchise dealer,10,145340,131,4,True,74,5780,6578,5650,7598,-12.1,Check underpricing
+CAR-03340,2026-04-16,DE,Audi,A3,Diesel,Automatic,Private,4,57513,115,1,True,32,12490,13847,11894,15994,-9.8,Check underpricing
+CAR-04484,2026-04-17,NL,Skoda,Karoq,Petrol,Manual,Independent dealer,3,28811,132,2,True,54,21440,18558,15941,21436,15.5,Review markdown
+CAR-03152,2026-04-17,DE,Audi,A3,Hybrid,Manual,Private,2,40999,110,2,True,63,21540,22380,19223,25850,-3.8,Hold
+CAR-02455,2026-04-17,DE,Mercedes-Benz,C-Class,Electric,Automatic,Franchise dealer,2,55014,131,2,True,28,36780,32171,27633,37160,14.3,Hold
+CAR-01043,2026-04-17,AT,Volkswagen,Passat,Petrol,Automatic,Independent dealer,6,95779,140,4,True,19,12470,10582,9089,12223,17.8,Hold
+CAR-04884,2026-04-17,DE,Skoda,Enyaq,Petrol,Automatic,Franchise dealer,2,39657,123,3,True,24,34660,29835,25626,34461,16.2,Hold
+CAR-02060,2026-04-18,DE,Skoda,Karoq,Petrol,Automatic,Franchise dealer,2,48858,155,1,True,35,25590,24921,21406,28786,2.7,Hold
+CAR-02936,2026-04-18,DE,Audi,Q5,Diesel,Automatic,Private,3,37575,202,3,True,16,36370,29233,25110,33766,24.4,Hold
+CAR-01594,2026-04-18,DE,Volkswagen,ID.3,Diesel,Automatic,Franchise dealer,12,229725,185,5,False,57,5380,3758,3228,4341,43.2,Review markdown
+CAR-03438,2026-04-19,DE,BMW,5 Series,Petrol,Manual,Private,3,56246,70,1,True,49,23260,22747,19539,26275,2.3,Hold
+CAR-04121,2026-04-19,DE,Volkswagen,Golf,Petrol,Automatic,Private,2,43321,165,1,True,24,21530,21264,18265,24561,1.3,Hold
+CAR-00437,2026-04-19,DE,Mercedes-Benz,C-Class,Petrol,Automatic,Private,5,103455,109,2,True,58,13200,12970,11140,14981,1.8,Hold
+CAR-00884,2026-04-20,DE,BMW,3 Series,Diesel,Automatic,Franchise dealer,3,47308,91,2,True,10,21860,20424,17544,23592,7.0,Hold
+CAR-04077,2026-04-20,DE,Mercedes-Benz,EQE,Electric,Manual,Private,6,78625,96,3,True,23,16000,15403,13230,17791,3.9,Hold
+CAR-04747,2026-04-20,NL,Volkswagen,ID.4,Diesel,Automatic,Private,7,164324,161,3,True,33,7240,8065,6927,9315,-10.2,Check underpricing
+CAR-04327,2026-04-20,DE,Volkswagen,ID.3,Petrol,Automatic,Independent dealer,1,26645,136,1,True,160,33060,36169,31068,41778,-8.6,Check underpricing
+CAR-03487,2026-04-20,DE,Volkswagen,Golf,Hybrid,Manual,Independent dealer,10,178368,174,3,False,180,5710,4046,3475,4673,41.1,Review markdown
+CAR-02723,2026-04-20,DE,Audi,Q5,Petrol,Automatic,Franchise dealer,6,107357,198,4,False,16,12510,13270,11399,15328,-5.7,Hold
+CAR-03005,2026-04-20,DE,Volkswagen,Tiguan,Electric,Automatic,Franchise dealer,3,66997,76,2,True,33,22060,19936,17124,23028,10.7,Hold
+CAR-03777,2026-04-21,DE,BMW,X3,Hybrid,Automatic,Franchise dealer,13,152965,164,5,True,24,6130,8111,6967,9368,-24.4,Check underpricing
+CAR-00583,2026-04-21,DE,Audi,Q3,Hybrid,Manual,Franchise dealer,5,75870,159,2,True,79,17670,14963,12853,17284,18.1,Review markdown
+CAR-00184,2026-04-21,DE,Volkswagen,ID.4,Diesel,Automatic,Independent dealer,6,137556,131,4,True,28,9550,9692,8325,11195,-1.5,Hold
+CAR-04202,2026-04-21,DE,BMW,i4,Electric,Automatic,Franchise dealer,11,173823,140,5,True,109,5660,7853,6746,9071,-27.9,Check underpricing
+CAR-03227,2026-04-21,DE,BMW,3 Series,Hybrid,Manual,Independent dealer,6,101007,258,2,False,28,11080,11177,9600,12910,-0.9,Hold
+CAR-00377,2026-04-21,DE,Mercedes-Benz,EQE,Diesel,Automatic,Independent dealer,2,34290,90,1,True,28,43120,40496,34784,46776,6.5,Hold
+CAR-01525,2026-04-22,DE,BMW,X3,Petrol,Automatic,Independent dealer,7,127501,172,5,True,34,10610,11434,9821,13207,-7.2,Hold
+CAR-02388,2026-04-22,NL,Volkswagen,ID.3,Hybrid,Automatic,Independent dealer,13,213272,164,5,True,17,5540,4754,4084,5492,16.5,Hold
+CAR-01532,2026-04-22,AT,Mercedes-Benz,EQE,Petrol,Manual,Franchise dealer,3,62588,177,2,True,39,39550,34683,29791,40062,14.0,Hold
+CAR-01677,2026-04-23,DE,Mercedes-Benz,E-Class,Petrol,Automatic,Independent dealer,9,114680,168,4,True,11,10130,10493,9013,12120,-3.5,Hold
+CAR-04755,2026-04-23,AT,Mercedes-Benz,EQE,Diesel,Automatic,Franchise dealer,1,14224,112,1,True,70,63280,61663,52966,71226,2.6,Hold
+CAR-03515,2026-04-23,DE,Volkswagen,ID.4,Hybrid,Manual,Franchise dealer,13,200179,78,4,True,15,5900,4928,4233,5693,19.7,Hold
+CAR-00374,2026-04-23,DE,BMW,X3,Diesel,Manual,Independent dealer,5,98463,184,4,True,70,19280,15741,13521,18182,22.5,Review markdown
+CAR-01881,2026-04-23,DE,Volkswagen,ID.3,Petrol,Automatic,Franchise dealer,4,78950,138,3,True,53,15160,15401,13229,17789,-1.6,Hold
+CAR-04194,2026-04-23,DE,Audi,A4,Petrol,Automatic,Franchise dealer,3,76944,147,3,True,84,22250,21490,18459,24822,3.5,Hold
+CAR-02361,2026-04-23,DE,BMW,3 Series,Diesel,Automatic,Private,5,111363,150,1,True,23,11450,11905,10226,13751,-3.8,Hold
+CAR-01475,2026-04-23,DE,Mercedes-Benz,GLA,Electric,Manual,Independent dealer,3,61257,183,1,True,77,24430,23349,20055,26970,4.6,Hold
+CAR-03070,2026-04-23,NL,BMW,X1,Diesel,Automatic,Franchise dealer,3,56601,127,2,True,136,22960,21511,18477,24847,6.7,Review markdown
+CAR-00929,2026-04-24,NL,Volkswagen,Golf,Diesel,Automatic,Franchise dealer,3,75229,117,2,True,145,16430,15340,13176,17718,7.1,Review markdown
+CAR-04869,2026-04-24,DE,Volkswagen,Golf,Electric,Automatic,Independent dealer,4,56783,130,2,True,7,12380,13716,11781,15843,-9.7,Check underpricing
+CAR-02825,2026-04-24,DE,Volkswagen,Tiguan,Petrol,Manual,Independent dealer,4,63257,100,1,True,73,17730,15414,13240,17804,15.0,Review markdown
+CAR-03217,2026-04-24,DE,BMW,3 Series,Electric,Automatic,Independent dealer,8,92169,174,4,True,36,9420,9346,8028,10795,0.8,Hold
+CAR-03304,2026-04-24,DE,Volkswagen,ID.3,Electric,Automatic,Independent dealer,4,75633,131,2,True,25,15560,15849,13614,18307,-1.8,Hold
+CAR-00298,2026-04-24,DE,Volkswagen,ID.3,Diesel,Automatic,Franchise dealer,1,18161,167,1,True,64,35610,38237,32844,44167,-6.9,Hold
+CAR-02842,2026-04-24,AT,Mercedes-Benz,GLA,Hybrid,Manual,Private,4,73987,220,2,True,61,19440,18525,15912,21397,4.9,Hold
+CAR-02907,2026-04-25,DE,BMW,5 Series,Electric,Manual,Independent dealer,2,43009,111,1,True,18,35330,34914,29990,40329,1.2,Hold
+CAR-02800,2026-04-25,DE,Skoda,Enyaq,Diesel,Automatic,Independent dealer,4,63663,79,2,False,30,14840,13844,11891,15991,7.2,Hold
+CAR-03885,2026-04-25,AT,BMW,X1,Petrol,Automatic,Independent dealer,4,68758,135,2,True,27,18680,17256,14822,19932,8.3,Hold
+CAR-04344,2026-04-25,DE,Volkswagen,Golf,Hybrid,Automatic,Independent dealer,13,208141,167,4,True,80,5620,4062,3489,4692,38.4,Review markdown
+CAR-00759,2026-04-26,NL,Mercedes-Benz,EQE,Petrol,Manual,Franchise dealer,7,146703,145,2,True,25,13100,13106,11258,15139,-0.0,Hold
+CAR-04831,2026-04-26,DE,Audi,e-tron,Diesel,Automatic,Franchise dealer,7,90072,151,3,True,41,15660,14436,12400,16675,8.5,Hold
+CAR-01984,2026-04-26,DE,Volkswagen,ID.3,Petrol,Automatic,Independent dealer,10,256228,108,4,True,31,6050,4007,3442,4629,51.0,Hold
+CAR-02851,2026-04-26,DE,Mercedes-Benz,A-Class,Petrol,Automatic,Franchise dealer,5,89296,104,2,False,29,9930,10097,8673,11663,-1.7,Hold
+CAR-02989,2026-04-26,DE,Volkswagen,ID.4,Petrol,Automatic,Independent dealer,7,126391,128,3,False,76,7130,8023,6892,9268,-11.1,Check underpricing
+CAR-02107,2026-04-26,DE,Skoda,Superb,Hybrid,Manual,Franchise dealer,6,107113,82,2,True,71,9630,10087,8664,11652,-4.5,Hold
+CAR-00118,2026-04-26,DE,Mercedes-Benz,E-Class,Petrol,Manual,Independent dealer,5,112181,70,2,False,29,12080,12627,10846,14585,-4.3,Hold
+CAR-02956,2026-04-27,DE,BMW,X1,Diesel,Manual,Independent dealer,3,41088,149,2,True,75,18520,20698,17779,23908,-10.5,Check underpricing
+CAR-00829,2026-04-27,DE,Audi,Q5,Petrol,Automatic,Independent dealer,5,85003,146,2,False,90,17280,15768,13544,18213,9.6,Review markdown
+CAR-03607,2026-04-27,DE,Audi,A4,Hybrid,Automatic,Franchise dealer,3,52054,180,1,True,12,27530,26690,22926,30829,3.1,Hold
+CAR-04598,2026-04-27,NL,Audi,A4,Hybrid,Automatic,Independent dealer,6,155354,98,2,True,27,9160,9846,8457,11373,-7.0,Hold
+CAR-00580,2026-04-27,DE,Mercedes-Benz,GLA,Petrol,Automatic,Franchise dealer,4,79525,168,3,True,112,19180,17876,15354,20648,7.3,Review markdown
+CAR-02675,2026-04-27,DE,Mercedes-Benz,C-Class,Diesel,Automatic,Independent dealer,2,26417,233,1,False,80,34100,32016,27500,36981,6.5,Review markdown
+CAR-03713,2026-04-27,DE,Volkswagen,Passat,Electric,Automatic,Independent dealer,2,58090,149,2,False,35,25530,23364,20069,26987,9.3,Hold
+CAR-03222,2026-04-27,DE,Volkswagen,Tiguan,Diesel,Manual,Private,3,43531,163,1,True,6,20940,19725,16943,22784,6.2,Hold
+CAR-01544,2026-04-27,DE,Mercedes-Benz,EQE,Petrol,Automatic,Franchise dealer,6,126993,153,3,True,40,19010,16428,14111,18976,15.7,Hold
+CAR-02327,2026-04-27,DE,BMW,X1,Hybrid,Automatic,Independent dealer,2,51516,116,1,True,13,32520,28250,24265,32630,15.1,Hold
+CAR-00209,2026-04-27,NL,Mercedes-Benz,EQE,Electric,Manual,Private,6,59774,157,3,True,43,22280,18223,15653,21049,22.3,Hold
+CAR-03490,2026-04-27,DE,Mercedes-Benz,C-Class,Diesel,Manual,Independent dealer,3,76178,177,2,True,35,21030,21690,18630,25053,-3.0,Hold
+CAR-01374,2026-04-28,DE,Skoda,Kodiaq,Petrol,Manual,Franchise dealer,4,77403,107,1,True,4,16210,15775,13550,18222,2.8,Hold
+CAR-00014,2026-04-28,NL,Mercedes-Benz,GLA,Diesel,Automatic,Franchise dealer,4,80391,130,3,False,9,15050,13864,11908,16014,8.6,Hold
+CAR-02631,2026-04-28,DE,Mercedes-Benz,E-Class,Hybrid,Automatic,Franchise dealer,0,17384,143,1,True,10,74720,79592,68366,91935,-6.1,Hold
+CAR-01217,2026-04-28,DE,Mercedes-Benz,E-Class,Diesel,Automatic,Private,6,90625,145,3,True,74,15810,14281,12267,16496,10.7,Review markdown
+CAR-00144,2026-04-28,AT,Mercedes-Benz,C-Class,Hybrid,Automatic,Franchise dealer,2,50342,150,1,True,78,39910,36209,31101,41824,10.2,Review markdown
+CAR-02311,2026-04-29,NL,BMW,3 Series,Diesel,Automatic,Franchise dealer,5,91615,138,4,True,30,14070,12822,11014,14811,9.7,Hold
+CAR-02152,2026-04-29,AT,Volkswagen,ID.3,Petrol,Manual,Independent dealer,3,67560,84,2,True,30,18160,17057,14651,19702,6.5,Hold
+CAR-02056,2026-04-29,DE,Skoda,Karoq,Hybrid,Manual,Independent dealer,1,30542,159,3,True,21,30570,30970,26602,35773,-1.3,Hold
+CAR-03157,2026-04-29,DE,BMW,i4,Electric,Manual,Independent dealer,10,139262,116,3,True,83,5970,8309,7137,9597,-28.2,Check underpricing
+CAR-04382,2026-04-30,DE,Audi,Q3,Petrol,Automatic,Franchise dealer,7,151530,149,3,True,28,8920,8639,7420,9979,3.3,Hold
+CAR-04000,2026-04-30,DE,Volkswagen,Passat,Electric,Automatic,Franchise dealer,13,181623,172,4,True,94,5740,5703,4899,6588,0.6,Hold
+CAR-01464,2026-04-30,DE,Volkswagen,Golf,Petrol,Manual,Franchise dealer,6,99919,153,2,True,51,8010,8412,7225,9716,-4.8,Hold
+CAR-00389,2026-04-30,NL,Skoda,Enyaq,Petrol,Automatic,Independent dealer,1,29562,176,1,True,30,41500,43856,37670,50657,-5.4,Hold
+CAR-01264,2026-04-30,DE,Mercedes-Benz,EQE,Petrol,Manual,Franchise dealer,1,26251,70,1,True,32,53530,52008,44673,60073,2.9,Hold
+CAR-03449,2026-04-30,DE,Volkswagen,Tiguan,Hybrid,Automatic,Franchise dealer,2,41814,102,1,True,49,30130,29182,25066,33708,3.2,Hold
+CAR-04163,2026-04-30,DE,Audi,e-tron,Hybrid,Automatic,Independent dealer,6,91435,154,3,True,22,18280,17534,15061,20253,4.3,Hold
+CAR-04235,2026-04-30,AT,BMW,X3,Petrol,Automatic,Franchise dealer,3,45839,131,2,True,10,30860,30439,26145,35159,1.4,Hold
+CAR-03681,2026-05-01,DE,BMW,X3,Petrol,Automatic,Franchise dealer,4,59098,126,2,True,13,31340,23075,19820,26654,35.8,Hold
+CAR-00898,2026-05-01,DE,BMW,X3,Hybrid,Automatic,Independent dealer,6,115179,71,3,True,40,11430,12868,11053,14863,-11.2,Check underpricing
+CAR-03088,2026-05-01,DE,Mercedes-Benz,GLA,Hybrid,Manual,Independent dealer,3,56900,202,2,True,63,25720,23948,20571,27662,7.4,Review markdown
+CAR-03278,2026-05-01,DE,Audi,A3,Hybrid,Automatic,Franchise dealer,9,134509,170,4,False,23,5060,5926,5090,6845,-14.6,Check underpricing
+CAR-00258,2026-05-02,DE,BMW,X1,Hybrid,Automatic,Independent dealer,0,15003,184,1,True,33,49330,58870,50566,67999,-16.2,Check underpricing
+CAR-04541,2026-05-02,DE,BMW,i4,Petrol,Automatic,Independent dealer,8,127572,189,4,True,36,11290,11063,9503,12779,2.1,Hold
+CAR-02978,2026-05-02,DE,Volkswagen,Passat,Diesel,Automatic,Franchise dealer,4,67813,101,2,True,28,19250,15317,13157,17692,25.7,Hold
+CAR-02633,2026-05-02,AT,Volkswagen,Tiguan,Petrol,Manual,Independent dealer,2,36391,174,2,True,62,28060,28649,24608,33092,-2.1,Hold
+CAR-02334,2026-05-03,DE,Mercedes-Benz,GLA,Electric,Automatic,Independent dealer,1,22092,168,1,False,3,35570,37121,31886,42878,-4.2,Hold
+CAR-02565,2026-05-03,AT,Audi,A4,Electric,Manual,Franchise dealer,2,37289,119,2,True,6,30790,29689,25501,34293,3.7,Hold
+CAR-00562,2026-05-03,DE,Volkswagen,Passat,Petrol,Manual,Independent dealer,1,32110,195,1,True,100,40700,37498,32209,43313,8.5,Review markdown
+CAR-02391,2026-05-03,NL,Volkswagen,Tiguan,Hybrid,Automatic,Private,2,46718,103,2,True,39,30220,25900,22247,29917,16.7,Hold
+CAR-04934,2026-05-03,DE,Volkswagen,Golf,Diesel,Automatic,Independent dealer,9,137457,166,4,True,42,6000,5156,4429,5956,16.4,Hold
+CAR-03588,2026-05-03,DE,Volkswagen,Golf,Electric,Automatic,Independent dealer,2,46406,103,1,True,59,20900,21360,18347,24672,-2.2,Hold
+CAR-02210,2026-05-03,DE,Skoda,Enyaq,Petrol,Automatic,Independent dealer,5,68221,162,1,True,24,16340,16175,13894,18683,1.0,Hold
+CAR-03982,2026-05-03,DE,Mercedes-Benz,A-Class,Electric,Automatic,Franchise dealer,4,84687,138,2,True,60,17770,15785,13559,18233,12.6,Review markdown
+CAR-04248,2026-05-04,DE,BMW,5 Series,Diesel,Automatic,Independent dealer,4,68625,214,3,True,127,23960,23327,20037,26944,2.7,Hold
+CAR-02238,2026-05-04,DE,Audi,Q3,Petrol,Automatic,Franchise dealer,1,29822,129,1,True,41,38520,39105,33589,45169,-1.5,Hold
+CAR-02038,2026-05-04,DE,Volkswagen,ID.3,Diesel,Manual,Private,8,152739,140,4,True,18,5890,5593,4804,6461,5.3,Hold
+CAR-00030,2026-05-04,DE,Volkswagen,Golf,Hybrid,Manual,Independent dealer,2,34400,140,2,True,175,18410,22272,19130,25725,-17.3,Check underpricing
+CAR-04069,2026-05-04,DE,BMW,3 Series,Hybrid,Manual,Independent dealer,2,33798,80,1,True,52,24380,26983,23177,31168,-9.6,Check underpricing
+CAR-03854,2026-05-04,DE,Volkswagen,Tiguan,Electric,Automatic,Private,8,157022,116,3,True,146,6100,6819,5857,7877,-10.5,Check underpricing
+CAR-01502,2026-05-04,DE,Audi,Q5,Petrol,Automatic,Independent dealer,11,155048,168,4,True,3,5760,7932,6814,9163,-27.4,Check underpricing
+CAR-01432,2026-05-04,DE,BMW,X1,Diesel,Automatic,Independent dealer,0,10229,109,1,True,28,36920,48688,41821,56239,-24.2,Check underpricing
+CAR-03326,2026-05-04,DE,Audi,e-tron,Hybrid,Automatic,Franchise dealer,3,56296,178,2,False,60,34050,31431,26997,36305,8.3,Review markdown
+CAR-02818,2026-05-05,DE,Mercedes-Benz,A-Class,Diesel,Manual,Independent dealer,5,69959,173,2,True,58,12510,12136,10424,14018,3.1,Hold
+CAR-01904,2026-05-05,DE,Volkswagen,Tiguan,Diesel,Manual,Franchise dealer,4,66902,252,2,True,14,19990,18192,15626,21014,9.9,Hold
+CAR-00409,2026-05-05,DE,Skoda,Octavia,Petrol,Automatic,Private,4,65466,194,2,True,37,14320,13610,11691,15721,5.2,Hold
+CAR-04170,2026-05-05,DE,Skoda,Kodiaq,Diesel,Manual,Independent dealer,5,82155,125,2,True,35,11930,12197,10477,14089,-2.2,Hold
+CAR-00376,2026-05-06,NL,Skoda,Karoq,Petrol,Automatic,Private,10,185224,77,5,True,41,5470,3908,3357,4514,40.0,Hold
+CAR-02984,2026-05-06,DE,BMW,5 Series,Petrol,Automatic,Franchise dealer,7,131652,91,4,True,123,11340,10663,9159,12316,6.3,Review markdown
+CAR-04638,2026-05-06,DE,BMW,X3,Diesel,Automatic,Private,8,133510,184,4,False,77,7860,8188,7033,9458,-4.0,Hold
+CAR-03118,2026-05-06,DE,Audi,Q5,Hybrid,Automatic,Independent dealer,1,18885,154,1,True,30,53120,57013,48971,65854,-6.8,Hold
+CAR-04992,2026-05-06,DE,Volkswagen,ID.4,Hybrid,Manual,Independent dealer,7,146438,134,4,True,180,9320,8817,7573,10184,5.7,Review markdown
+CAR-00906,2026-05-06,DE,Mercedes-Benz,EQE,Petrol,Automatic,Independent dealer,1,37287,144,1,True,133,63430,58946,50632,68088,7.6,Review markdown
+CAR-00942,2026-05-07,DE,BMW,X3,Petrol,Automatic,Independent dealer,9,112833,232,5,True,91,8820,10637,9137,12286,-17.1,Check underpricing
+CAR-03101,2026-05-07,DE,BMW,i4,Petrol,Automatic,Independent dealer,3,51552,164,1,True,17,30030,31197,26797,36035,-3.7,Hold
+CAR-03037,2026-05-07,DE,BMW,5 Series,Diesel,Automatic,Independent dealer,3,34861,109,1,True,60,28670,28158,24187,32525,1.8,Hold
+CAR-01932,2026-05-07,DE,Volkswagen,Golf,Petrol,Automatic,Franchise dealer,8,70952,181,4,True,34,6480,7506,6447,8670,-13.7,Check underpricing
+CAR-04075,2026-05-08,DE,Audi,Q5,Electric,Automatic,Private,3,59065,175,2,True,13,34800,29362,25221,33916,18.5,Hold
+CAR-04375,2026-05-08,DE,BMW,5 Series,Petrol,Automatic,Independent dealer,7,97151,152,3,True,18,14380,12600,10823,14554,14.1,Hold
+CAR-02557,2026-05-08,DE,Audi,Q5,Petrol,Automatic,Franchise dealer,1,28816,70,1,True,87,48650,47517,40815,54886,2.4,Hold
+CAR-03989,2026-05-08,DE,Skoda,Kodiaq,Diesel,Automatic,Private,1,35293,126,1,True,38,31600,33547,28816,38750,-5.8,Hold
+CAR-00151,2026-05-08,DE,Skoda,Superb,Electric,Automatic,Independent dealer,3,67488,286,1,True,7,28750,26391,22669,30484,8.9,Hold
+CAR-01514,2026-05-08,DE,Skoda,Kodiaq,Petrol,Automatic,Independent dealer,11,271398,185,5,True,68,5670,4408,3787,5092,28.6,Review markdown
+CAR-04329,2026-05-08,DE,Skoda,Enyaq,Diesel,Manual,Independent dealer,1,18880,191,1,True,78,38830,41742,35855,48216,-7.0,Hold
+CAR-00513,2026-05-08,DE,Audi,Q5,Hybrid,Automatic,Independent dealer,3,75452,174,3,True,21,32640,29346,25206,33896,11.2,Hold
+CAR-01888,2026-05-08,NL,Skoda,Enyaq,Petrol,Automatic,Franchise dealer,5,44932,175,1,True,22,25860,18562,15944,21440,39.3,Hold
+CAR-01040,2026-05-09,DE,BMW,X3,Petrol,Manual,Private,2,54478,146,2,False,64,30080,27230,23389,31453,10.5,Review markdown
+CAR-03284,2026-05-09,DE,BMW,X1,Petrol,Automatic,Private,4,61499,155,3,True,47,17670,16265,13971,18788,8.6,Review markdown
+CAR-01322,2026-05-09,DE,BMW,X1,Petrol,Manual,Independent dealer,8,171974,105,3,True,28,5220,6120,5257,7070,-14.7,Check underpricing
+CAR-02229,2026-05-10,NL,Volkswagen,Tiguan,Petrol,Manual,Franchise dealer,2,26787,179,1,False,8,29830,26469,22735,30573,12.7,Hold
+CAR-04129,2026-05-10,AT,Skoda,Superb,Petrol,Manual,Franchise dealer,3,92223,157,2,True,58,19600,19617,16850,22660,-0.1,Hold
+CAR-01227,2026-05-10,NL,Mercedes-Benz,GLA,Electric,Automatic,Private,1,29729,123,1,True,48,33370,37929,32579,43810,-12.0,Check underpricing
+CAR-03760,2026-05-10,DE,Skoda,Enyaq,Hybrid,Automatic,Independent dealer,8,143009,112,3,True,24,7650,8149,6999,9412,-6.1,Hold
+CAR-00056,2026-05-11,DE,Mercedes-Benz,GLA,Electric,Automatic,Private,8,170403,198,4,True,12,5870,7364,6325,8506,-20.3,Check underpricing
+CAR-04424,2026-05-11,AT,Mercedes-Benz,EQE,Hybrid,Automatic,Franchise dealer,4,92266,195,1,True,65,39410,30929,26567,35725,27.4,Review markdown
+CAR-01105,2026-05-11,DE,Volkswagen,Passat,Diesel,Automatic,Independent dealer,1,22063,171,1,False,58,31790,32656,28050,37720,-2.7,Hold
+CAR-03654,2026-05-12,AT,Audi,Q5,Hybrid,Automatic,Private,5,92129,125,3,True,37,21230,17332,14888,20020,22.5,Hold
+CAR-01985,2026-05-13,DE,Skoda,Enyaq,Hybrid,Automatic,Franchise dealer,0,7853,237,1,True,21,62740,72740,62480,84020,-13.7,Check underpricing
+CAR-02857,2026-05-13,DE,Mercedes-Benz,E-Class,Electric,Manual,Independent dealer,10,158592,166,4,False,62,5880,7339,6304,8477,-19.9,Check underpricing
+CAR-00378,2026-05-13,DE,Audi,A4,Petrol,Manual,Independent dealer,1,35654,131,1,True,47,40380,35907,30842,41475,12.5,Review markdown
+CAR-04086,2026-05-13,DE,Mercedes-Benz,E-Class,Petrol,Manual,Private,9,124418,188,4,True,6,8280,9301,7989,10743,-11.0,Check underpricing
+CAR-04704,2026-05-13,DE,BMW,X1,Diesel,Automatic,Independent dealer,3,60068,134,3,True,14,19900,19609,16843,22650,1.5,Hold
+CAR-03765,2026-05-13,AT,Volkswagen,Passat,Petrol,Manual,Independent dealer,7,98095,151,2,True,26,9330,9244,7940,10677,0.9,Hold
+CAR-04125,2026-05-14,DE,BMW,5 Series,Petrol,Automatic,Franchise dealer,4,69452,163,2,True,39,27550,23602,20273,27262,16.7,Hold
+CAR-00953,2026-05-14,DE,BMW,5 Series,Electric,Manual,Franchise dealer,7,113405,116,3,True,35,10600,11616,9978,13417,-8.7,Check underpricing
+CAR-03724,2026-05-14,AT,Volkswagen,Passat,Electric,Automatic,Independent dealer,8,138739,116,3,True,42,5910,7579,6510,8754,-22.0,Check underpricing
+CAR-03315,2026-05-14,DE,BMW,i4,Petrol,Automatic,Franchise dealer,3,69006,143,2,True,34,32150,29066,24966,33573,10.6,Hold
+CAR-04595,2026-05-14,DE,Skoda,Octavia,Petrol,Automatic,Private,1,21172,158,2,True,3,29070,28757,24701,33216,1.1,Hold
+CAR-01896,2026-05-15,DE,Volkswagen,Tiguan,Electric,Manual,Franchise dealer,1,33626,184,2,True,13,44940,38954,33460,44995,15.4,Hold
+CAR-04886,2026-05-15,DE,BMW,X3,Petrol,Automatic,Independent dealer,13,211287,124,5,True,94,5390,5995,5150,6925,-10.1,Check underpricing
+CAR-00457,2026-05-15,DE,Mercedes-Benz,A-Class,Petrol,Automatic,Independent dealer,1,15883,92,1,True,67,28590,33581,28844,38788,-14.9,Check underpricing
+CAR-03007,2026-05-15,DE,BMW,i4,Diesel,Automatic,Franchise dealer,1,26764,142,1,True,79,49140,52236,44868,60337,-5.9,Hold
+CAR-02445,2026-05-15,DE,Mercedes-Benz,E-Class,Petrol,Manual,Independent dealer,3,61015,135,2,True,23,31870,27640,23742,31927,15.3,Hold
+CAR-01116,2026-05-15,DE,BMW,5 Series,Hybrid,Manual,Franchise dealer,3,78526,129,1,True,12,27650,27108,23284,31312,2.0,Hold
+CAR-03930,2026-05-15,DE,Mercedes-Benz,EQE,Petrol,Automatic,Independent dealer,2,37555,208,2,True,67,55200,48831,41943,56403,13.0,Review markdown
+CAR-01541,2026-05-16,DE,Audi,e-tron,Petrol,Manual,Franchise dealer,2,27752,161,2,True,68,46320,43435,37308,50170,6.6,Review markdown
+CAR-03949,2026-05-16,DE,Audi,Q3,Diesel,Automatic,Independent dealer,2,49008,157,2,True,31,29160,27221,23382,31442,7.1,Hold
+CAR-01795,2026-05-16,NL,Audi,e-tron,Electric,Automatic,Franchise dealer,3,76230,192,3,True,36,37940,34283,29448,39600,10.7,Hold
+CAR-02546,2026-05-16,DE,Skoda,Enyaq,Electric,Automatic,Independent dealer,5,109344,157,3,True,30,14040,14199,12196,16401,-1.1,Hold
+CAR-03332,2026-05-16,DE,BMW,X3,Petrol,Automatic,Independent dealer,8,119329,70,5,True,31,7270,8902,7647,10283,-18.3,Check underpricing
+CAR-03810,2026-05-17,DE,Mercedes-Benz,GLA,Electric,Manual,Franchise dealer,3,71727,186,1,True,21,23740,23320,20030,26936,1.8,Hold
+CAR-03665,2026-05-17,DE,Audi,A4,Hybrid,Automatic,Franchise dealer,2,29225,83,1,True,46,34400,30995,26624,35802,11.0,Review markdown
+CAR-03725,2026-05-17,AT,Volkswagen,Golf,Electric,Automatic,Private,2,28908,132,1,True,15,19980,22789,19574,26323,-12.3,Check underpricing
+CAR-04480,2026-05-17,DE,Mercedes-Benz,EQE,Diesel,Manual,Franchise dealer,5,111881,115,2,True,12,18900,17445,14984,20150,8.3,Hold
+CAR-01452,2026-05-18,NL,Skoda,Kodiaq,Electric,Manual,Private,4,80888,202,3,True,25,15990,16567,14231,19137,-3.5,Hold
+CAR-01080,2026-05-18,DE,Audi,A3,Hybrid,Automatic,Independent dealer,4,77381,105,2,True,8,15620,14605,12545,16870,6.9,Hold
+CAR-01849,2026-05-18,DE,Volkswagen,Tiguan,Hybrid,Automatic,Private,10,97078,120,4,True,90,5960,6782,5825,7833,-12.1,Check underpricing
+CAR-02003,2026-05-18,AT,Volkswagen,Golf,Petrol,Automatic,Franchise dealer,5,100306,190,2,False,26,10180,9691,8324,11194,5.0,Hold
+CAR-00854,2026-05-18,DE,BMW,5 Series,Petrol,Automatic,Franchise dealer,1,30427,211,1,True,36,60480,56641,48652,65425,6.8,Hold
+CAR-02508,2026-05-18,DE,Mercedes-Benz,C-Class,Hybrid,Automatic,Private,1,36405,91,2,True,22,35820,37565,32267,43391,-4.6,Hold
+CAR-03356,2026-05-19,DE,Mercedes-Benz,GLA,Electric,Manual,Independent dealer,5,90268,168,1,True,20,14360,14262,12250,16473,0.7,Hold
+CAR-02616,2026-05-19,DE,BMW,3 Series,Diesel,Manual,Franchise dealer,4,68718,203,3,True,29,19230,17082,14673,19731,12.6,Hold
+CAR-02945,2026-05-19,DE,Audi,e-tron,Petrol,Automatic,Independent dealer,7,146906,197,3,True,65,14340,13245,11377,15299,8.3,Review markdown
+CAR-03695,2026-05-19,NL,Mercedes-Benz,E-Class,Diesel,Automatic,Private,10,191015,89,5,True,56,5130,6318,5427,7298,-18.8,Check underpricing
+CAR-04795,2026-05-19,DE,BMW,5 Series,Electric,Automatic,Private,2,27456,81,1,True,62,37500,35246,30274,40712,6.4,Review markdown
+CAR-00757,2026-05-19,DE,Skoda,Superb,Petrol,Automatic,Independent dealer,6,143893,143,3,True,9,8390,9391,8066,10847,-10.7,Check underpricing
+CAR-00540,2026-05-19,DE,Skoda,Karoq,Hybrid,Manual,Independent dealer,5,61127,149,3,True,62,13590,12028,10332,13894,13.0,Review markdown
+CAR-04911,2026-05-19,DE,Mercedes-Benz,E-Class,Hybrid,Automatic,Independent dealer,1,19169,162,1,False,27,52180,51859,44544,59901,0.6,Hold
+CAR-03609,2026-05-19,DE,Audi,e-tron,Electric,Automatic,Franchise dealer,1,12493,132,1,True,14,66810,63327,54395,73147,5.5,Hold
+CAR-02024,2026-05-20,DE,Mercedes-Benz,EQE,Hybrid,Manual,Independent dealer,6,102568,167,3,True,6,16510,17200,14774,19868,-4.0,Hold
+CAR-02518,2026-05-20,DE,Mercedes-Benz,GLA,Petrol,Manual,Franchise dealer,7,146046,165,4,True,15,7680,8334,7159,9627,-7.8,Hold
+CAR-04668,2026-05-20,DE,Skoda,Karoq,Diesel,Manual,Independent dealer,7,121310,131,2,True,44,5960,6824,5861,7882,-12.7,Check underpricing
+CAR-00174,2026-05-20,DE,BMW,i4,Electric,Automatic,Independent dealer,2,42619,168,1,True,68,40740,42404,36423,48980,-3.9,Hold
+CAR-03871,2026-05-20,DE,BMW,X3,Diesel,Automatic,Independent dealer,1,24750,127,1,True,28,46180,47753,41018,55159,-3.3,Hold
+CAR-01129,2026-05-20,DE,Skoda,Enyaq,Petrol,Automatic,Independent dealer,4,89534,70,2,True,31,14980,15336,13173,17715,-2.3,Hold
+CAR-02615,2026-05-20,DE,Mercedes-Benz,EQE,Diesel,Automatic,Independent dealer,7,113120,178,3,True,49,13940,14398,12367,16631,-3.2,Hold
+CAR-02902,2026-05-20,DE,BMW,3 Series,Petrol,Manual,Independent dealer,1,23461,211,1,True,7,49720,40685,34946,46994,22.2,Hold
+CAR-01754,2026-05-20,DE,Audi,Q3,Petrol,Manual,Independent dealer,1,19360,229,1,True,3,40190,42199,36247,48743,-4.8,Hold
+CAR-02333,2026-05-21,AT,BMW,X3,Diesel,Automatic,Private,3,58830,224,2,True,49,34700,29379,25235,33934,18.1,Review markdown
+CAR-04224,2026-05-21,DE,BMW,X3,Petrol,Automatic,Franchise dealer,2,50344,113,2,False,73,29460,30639,26317,35390,-3.8,Hold
+CAR-00530,2026-05-21,DE,Volkswagen,Passat,Diesel,Automatic,Franchise dealer,5,98069,113,2,True,4,13080,11925,10243,13775,9.7,Hold
+CAR-00858,2026-05-21,DE,Audi,A3,Petrol,Automatic,Franchise dealer,4,77379,112,3,False,25,11840,12120,10411,14000,-2.3,Hold
+CAR-03648,2026-05-21,AT,Audi,Q5,Electric,Manual,Franchise dealer,7,110621,131,3,True,69,12130,12724,10930,14698,-4.7,Hold
+CAR-01562,2026-05-22,DE,Skoda,Enyaq,Petrol,Automatic,Independent dealer,7,136571,94,3,True,35,7790,8535,7332,9859,-8.7,Check underpricing
+CAR-04583,2026-05-22,DE,Skoda,Superb,Hybrid,Automatic,Franchise dealer,5,132952,81,2,False,36,8840,9924,8524,11463,-10.9,Check underpricing
+CAR-00512,2026-05-22,NL,BMW,i4,Diesel,Manual,Private,1,18440,194,2,True,53,49290,48964,42058,56558,0.7,Hold
+CAR-02725,2026-05-22,DE,Volkswagen,Tiguan,Petrol,Automatic,Private,13,178824,146,5,False,44,4920,4076,3501,4708,20.7,Hold
+CAR-00705,2026-05-22,DE,Mercedes-Benz,GLA,Petrol,Manual,Independent dealer,4,76532,70,2,True,75,14950,14313,12294,16532,4.5,Hold
+CAR-04732,2026-05-23,NL,Audi,e-tron,Petrol,Manual,Franchise dealer,7,135042,163,4,True,39,11460,12532,10764,14475,-8.6,Check underpricing
+CAR-02963,2026-05-23,DE,Mercedes-Benz,E-Class,Diesel,Automatic,Independent dealer,9,127958,83,4,False,116,5910,7422,6375,8573,-20.4,Check underpricing
+CAR-00145,2026-05-23,DE,Audi,Q3,Electric,Manual,Independent dealer,4,64319,205,2,True,63,19420,18769,16121,21679,3.5,Hold
+CAR-02770,2026-05-23,DE,BMW,3 Series,Electric,Automatic,Franchise dealer,11,175850,186,5,True,44,5450,6170,5300,7127,-11.7,Check underpricing
+CAR-01837,2026-05-23,AT,Mercedes-Benz,EQE,Diesel,Automatic,Private,8,96638,84,3,False,37,9040,9691,8324,11194,-6.7,Hold
+CAR-01139,2026-05-23,DE,Volkswagen,ID.4,Petrol,Manual,Franchise dealer,13,224575,136,5,True,50,5310,4688,4027,5415,13.3,Review markdown
+CAR-00559,2026-05-23,DE,Mercedes-Benz,GLA,Electric,Automatic,Independent dealer,10,222582,177,5,True,102,6310,5542,4760,6401,13.9,Review markdown
+CAR-02021,2026-05-24,DE,BMW,X3,Diesel,Automatic,Independent dealer,0,22538,138,1,True,55,56270,64068,55031,74004,-12.2,Check underpricing
+CAR-01337,2026-05-24,AT,Mercedes-Benz,GLA,Hybrid,Automatic,Franchise dealer,5,108851,177,2,True,63,14170,15450,13271,17846,-8.3,Check underpricing
+CAR-03979,2026-05-24,DE,Volkswagen,Golf,Petrol,Automatic,Franchise dealer,0,17809,103,1,True,7,31200,38353,32944,44301,-18.7,Check underpricing
+CAR-03076,2026-05-24,DE,Audi,A3,Electric,Manual,Independent dealer,5,78178,159,2,False,75,11360,10673,9167,12328,6.4,Review markdown
+CAR-00902,2026-05-24,NL,BMW,3 Series,Diesel,Automatic,Franchise dealer,2,37548,131,2,True,9,30720,28417,24409,32824,8.1,Hold
+CAR-00150,2026-05-24,DE,Volkswagen,ID.3,Petrol,Automatic,Private,10,159124,168,5,True,19,5900,5266,4523,6082,12.0,Hold
+CAR-03422,2026-05-24,AT,Volkswagen,ID.3,Electric,Automatic,Franchise dealer,2,43174,160,1,False,20,29670,26050,22376,30090,13.9,Hold
+CAR-02932,2026-05-25,DE,Mercedes-Benz,C-Class,Diesel,Automatic,Independent dealer,2,23764,130,2,True,35,36060,31567,27114,36462,14.2,Hold
+CAR-04721,2026-05-25,DE,Mercedes-Benz,E-Class,Electric,Automatic,Private,1,18207,138,1,True,19,51280,54361,46694,62792,-5.7,Hold
+CAR-02966,2026-05-25,AT,Audi,Q5,Petrol,Automatic,Franchise dealer,4,54757,84,3,True,57,24820,22518,19342,26010,10.2,Review markdown
+CAR-03013,2026-05-26,DE,Volkswagen,ID.4,Petrol,Automatic,Independent dealer,3,69775,188,2,True,30,26070,23853,20488,27552,9.3,Hold
+CAR-03290,2026-05-26,DE,Audi,A3,Diesel,Automatic,Independent dealer,7,148020,161,4,False,60,5680,6091,5232,7036,-6.7,Hold
+CAR-02432,2026-05-26,DE,Mercedes-Benz,GLA,Diesel,Automatic,Independent dealer,3,73013,139,1,True,51,20380,20583,17680,23775,-1.0,Hold
+CAR-02215,2026-05-26,DE,BMW,3 Series,Hybrid,Automatic,Franchise dealer,2,27927,70,1,True,17,29970,29591,25417,34180,1.3,Hold
+CAR-02960,2026-05-27,AT,Volkswagen,ID.3,Diesel,Automatic,Franchise dealer,2,33928,133,1,True,25,29750,27635,23737,31920,7.7,Hold
+CAR-02720,2026-05-27,DE,Mercedes-Benz,E-Class,Petrol,Automatic,Private,9,154080,215,3,True,14,7310,9682,8316,11183,-24.5,Check underpricing
+CAR-01089,2026-05-28,DE,Mercedes-Benz,E-Class,Electric,Automatic,Independent dealer,3,63813,143,2,False,116,32160,26833,23049,30995,19.9,Review markdown
+CAR-03737,2026-05-28,DE,Volkswagen,ID.3,Electric,Automatic,Private,2,53146,247,1,True,5,31110,29183,25067,33709,6.6,Hold
+CAR-04960,2026-05-29,DE,BMW,X1,Hybrid,Automatic,Independent dealer,12,203738,111,4,True,15,5540,4909,4217,5670,12.9,Hold
+CAR-02343,2026-05-29,DE,Audi,Q3,Electric,Manual,Independent dealer,2,60475,144,3,True,82,29420,25955,22294,29980,13.4,Review markdown
+CAR-02406,2026-05-29,DE,Mercedes-Benz,E-Class,Electric,Automatic,Independent dealer,8,150306,135,3,True,50,8890,10669,9164,12323,-16.7,Check underpricing
+CAR-01923,2026-05-29,DE,Audi,A3,Petrol,Automatic,Independent dealer,3,67188,144,2,True,82,19100,18664,16032,21558,2.3,Hold
+CAR-02089,2026-05-29,DE,Mercedes-Benz,E-Class,Hybrid,Automatic,Franchise dealer,3,47754,147,1,True,20,38160,34957,30027,40378,9.2,Hold
+CAR-04957,2026-05-30,DE,Audi,Q3,Diesel,Manual,Franchise dealer,9,211659,157,4,True,49,5760,5343,4589,6171,7.8,Review markdown
+CAR-03267,2026-05-30,DE,Volkswagen,Tiguan,Diesel,Automatic,Franchise dealer,2,52465,161,2,True,37,27680,27339,23483,31578,1.2,Hold
+CAR-04057,2026-05-30,NL,Skoda,Kodiaq,Petrol,Manual,Private,7,116594,105,3,True,20,7720,7752,6658,8954,-0.4,Hold
+CAR-02521,2026-05-30,DE,Mercedes-Benz,EQE,Hybrid,Automatic,Franchise dealer,7,131955,146,3,True,114,15330,15013,12895,17341,2.1,Hold
+CAR-01249,2026-05-30,DE,Skoda,Octavia,Diesel,Automatic,Private,6,117383,229,3,True,21,7340,8218,7059,9492,-10.7,Check underpricing
+CAR-00936,2026-05-31,DE,Skoda,Enyaq,Diesel,Manual,Franchise dealer,2,35054,89,3,True,31,26680,25945,22285,29968,2.8,Hold
+CAR-04343,2026-05-31,DE,Audi,Q3,Hybrid,Manual,Franchise dealer,4,89615,70,1,False,23,12120,13000,11166,15016,-6.8,Hold
+CAR-02933,2026-05-31,DE,Skoda,Superb,Petrol,Automatic,Franchise dealer,1,22856,130,1,True,23,41430,38971,33474,45014,6.3,Hold
+CAR-01206,2026-05-31,DE,Volkswagen,Tiguan,Petrol,Automatic,Private,11,272106,191,4,True,59,4980,4151,3566,4795,20.0,Review markdown
+CAR-00211,2026-05-31,DE,Mercedes-Benz,E-Class,Petrol,Automatic,Franchise dealer,3,69065,117,1,False,59,29490,25531,21930,29490,15.5,Review markdown
+CAR-04979,2026-05-31,AT,Skoda,Octavia,Hybrid,Automatic,Private,4,56406,215,3,True,97,17900,15452,13272,17848,15.8,Review markdown
+CAR-03547,2026-06-01,DE,Skoda,Enyaq,Petrol,Automatic,Private,1,44968,70,1,True,147,36820,33457,28738,38646,10.1,Review markdown
+CAR-01738,2026-06-01,DE,Mercedes-Benz,C-Class,Petrol,Automatic,Franchise dealer,13,162869,143,4,True,51,5280,6366,5468,7353,-17.1,Check underpricing
+CAR-00795,2026-06-01,DE,Audi,A4,Petrol,Manual,Private,6,123269,180,3,True,31,10030,9832,8445,11356,2.0,Hold
+CAR-04824,2026-06-01,DE,Audi,Q5,Petrol,Automatic,Independent dealer,6,150781,188,2,True,31,14210,13735,11798,15865,3.5,Hold
+CAR-02568,2026-06-01,DE,Volkswagen,ID.4,Petrol,Manual,Private,1,39987,228,1,True,40,41590,39878,34253,46062,4.3,Hold
+CAR-03270,2026-06-01,DE,Skoda,Karoq,Petrol,Automatic,Franchise dealer,6,73047,151,2,True,50,10590,10589,9095,12231,0.0,Hold
+CAR-03480,2026-06-01,DE,Mercedes-Benz,C-Class,Petrol,Manual,Franchise dealer,1,26061,118,2,True,94,43010,40098,34442,46317,7.3,Review markdown
+CAR-03403,2026-06-02,DE,Skoda,Kodiaq,Petrol,Manual,Franchise dealer,5,121451,225,2,True,31,12650,13529,11621,15627,-6.5,Hold
+CAR-04208,2026-06-02,AT,Mercedes-Benz,GLA,Electric,Manual,Independent dealer,2,40035,117,2,True,38,32070,28144,24174,32509,13.9,Hold
+CAR-02649,2026-06-02,DE,Volkswagen,Tiguan,Petrol,Automatic,Independent dealer,2,58388,112,1,True,45,25080,25709,22083,29696,-2.4,Hold
+CAR-00738,2026-06-02,DE,Audi,A3,Petrol,Automatic,Independent dealer,7,147451,234,4,True,27,6920,8131,6984,9392,-14.9,Check underpricing
+CAR-04295,2026-06-02,DE,Audi,Q5,Petrol,Manual,Private,4,83233,229,2,True,123,25830,22072,18959,25495,17.0,Review markdown
+CAR-02822,2026-06-02,DE,BMW,5 Series,Electric,Automatic,Franchise dealer,2,71646,139,1,True,21,40630,36823,31629,42533,10.3,Hold
+CAR-01079,2026-06-02,AT,Audi,A3,Electric,Automatic,Franchise dealer,4,84018,187,2,True,87,17590,17269,14833,19947,1.9,Hold
+CAR-04123,2026-06-03,DE,Audi,A3,Electric,Automatic,Independent dealer,8,159569,83,4,True,37,5380,5889,5058,6802,-8.6,Check underpricing
+CAR-03437,2026-06-03,DE,Audi,Q5,Diesel,Manual,Private,6,89247,173,2,True,20,13590,13610,11690,15720,-0.1,Hold
+CAR-00954,2026-06-03,DE,Skoda,Octavia,Diesel,Manual,Franchise dealer,5,81456,119,3,True,17,9940,9403,8076,10861,5.7,Hold
+CAR-04242,2026-06-03,DE,Mercedes-Benz,GLA,Diesel,Automatic,Franchise dealer,6,109995,162,3,False,52,9960,9492,8153,10964,4.9,Hold
+CAR-03398,2026-06-03,NL,Volkswagen,Tiguan,Electric,Automatic,Independent dealer,4,74438,101,1,True,51,16070,16776,14410,19378,-4.2,Hold
+CAR-02793,2026-06-04,DE,Skoda,Kodiaq,Diesel,Automatic,Independent dealer,4,61852,91,3,True,55,18840,15238,13089,17601,23.6,Review markdown
+CAR-00430,2026-06-04,AT,Skoda,Karoq,Petrol,Automatic,Franchise dealer,12,160124,132,4,True,13,5250,4843,4160,5594,8.4,Hold
+CAR-01801,2026-06-04,DE,Volkswagen,ID.4,Diesel,Automatic,Independent dealer,13,216537,157,5,True,18,5200,4856,4171,5609,7.1,Hold
+CAR-03195,2026-06-05,NL,Audi,A4,Hybrid,Automatic,Franchise dealer,8,101590,114,3,True,51,9400,9306,7993,10749,1.0,Hold
+CAR-04535,2026-06-05,AT,BMW,X3,Petrol,Automatic,Private,3,41319,106,1,True,16,32980,27713,23804,32010,19.0,Hold
+CAR-04542,2026-06-05,DE,Skoda,Karoq,Hybrid,Automatic,Franchise dealer,13,201540,87,5,True,23,5620,4019,3452,4642,39.8,Hold
+CAR-02082,2026-06-05,DE,Volkswagen,ID.3,Petrol,Automatic,Private,7,156089,160,2,False,46,5210,6398,5496,7390,-18.6,Check underpricing
+CAR-01774,2026-06-05,DE,Volkswagen,Tiguan,Diesel,Automatic,Independent dealer,3,64946,198,1,True,102,23900,22245,19107,25695,7.4,Review markdown
+CAR-02761,2026-06-06,DE,Skoda,Kodiaq,Hybrid,Automatic,Franchise dealer,5,101800,163,2,True,41,16200,14808,12719,17104,9.4,Hold
+CAR-02951,2026-06-06,DE,Volkswagen,Golf,Petrol,Manual,Franchise dealer,6,116894,105,2,True,26,7140,7412,6367,8561,-3.7,Hold
+CAR-03523,2026-06-06,DE,Audi,Q3,Petrol,Automatic,Franchise dealer,3,62345,188,2,True,37,24900,23613,20283,27275,5.5,Hold
+CAR-04969,2026-06-06,DE,Volkswagen,Passat,Petrol,Automatic,Franchise dealer,1,20410,95,1,True,21,35570,36479,31334,42136,-2.5,Hold
+CAR-02828,2026-06-06,NL,Volkswagen,Tiguan,Diesel,Automatic,Franchise dealer,5,93199,153,2,True,17,15430,13316,11438,15381,15.9,Hold
+CAR-02598,2026-06-06,DE,Skoda,Karoq,Petrol,Automatic,Independent dealer,3,53661,151,1,True,8,17780,18820,16166,21739,-5.5,Hold
+CAR-01352,2026-06-06,DE,Audi,Q3,Diesel,Automatic,Private,6,127581,221,3,True,44,9300,10248,8802,11837,-9.3,Check underpricing
+CAR-01966,2026-06-07,DE,Volkswagen,ID.3,Diesel,Automatic,Private,1,27757,88,2,True,26,31000,28864,24793,33340,7.4,Hold
+CAR-02519,2026-06-07,DE,BMW,5 Series,Petrol,Automatic,Independent dealer,2,16906,112,2,True,28,42950,37951,32598,43836,13.2,Hold
+CAR-00842,2026-06-07,DE,Mercedes-Benz,EQE,Hybrid,Automatic,Franchise dealer,3,62189,185,2,True,9,45650,38177,32792,44098,19.6,Hold
+CAR-03347,2026-06-07,DE,Mercedes-Benz,E-Class,Petrol,Manual,Private,3,52491,100,2,True,111,26300,25637,22021,29613,2.6,Hold
+CAR-03397,2026-06-08,DE,BMW,X3,Petrol,Automatic,Franchise dealer,3,68443,197,1,False,17,29170,26746,22973,30893,9.1,Hold
+CAR-04320,2026-06-08,NL,Volkswagen,ID.4,Diesel,Automatic,Franchise dealer,6,99541,186,3,True,46,12820,12630,10848,14588,1.5,Hold
+CAR-04987,2026-06-08,DE,BMW,3 Series,Petrol,Automatic,Independent dealer,4,64930,121,1,True,36,15390,17224,14794,19895,-10.6,Check underpricing
+CAR-01520,2026-06-08,DE,Audi,Q5,Diesel,Automatic,Independent dealer,1,28765,143,2,True,41,42320,48064,41285,55518,-12.0,Check underpricing
+CAR-00651,2026-06-09,DE,Skoda,Octavia,Electric,Automatic,Independent dealer,4,101042,121,3,True,44,12060,11946,10261,13799,1.0,Hold
+CAR-01350,2026-06-09,DE,Volkswagen,ID.3,Diesel,Automatic,Franchise dealer,2,42686,114,1,True,62,28680,25477,21883,29427,12.6,Review markdown
+CAR-04511,2026-06-09,DE,Mercedes-Benz,A-Class,Petrol,Automatic,Franchise dealer,11,196253,94,4,True,8,5230,4415,3793,5100,18.5,Hold
+CAR-02930,2026-06-09,DE,Mercedes-Benz,E-Class,Hybrid,Automatic,Franchise dealer,1,7469,145,1,False,95,62800,55609,47766,64233,12.9,Review markdown
+CAR-04058,2026-06-09,DE,Audi,e-tron,Diesel,Automatic,Private,3,44351,94,1,False,15,24110,24105,20705,27843,0.0,Hold
+CAR-02849,2026-06-09,DE,Audi,A3,Petrol,Automatic,Independent dealer,7,142521,70,3,True,42,6580,6638,5702,7668,-0.9,Hold
+CAR-01212,2026-06-09,NL,Mercedes-Benz,A-Class,Diesel,Automatic,Independent dealer,8,112409,176,4,True,68,7000,7407,6363,8556,-5.5,Hold
+CAR-02042,2026-06-10,DE,Volkswagen,Tiguan,Petrol,Automatic,Franchise dealer,1,19524,151,1,True,61,41540,40943,35168,47292,1.5,Hold
+CAR-01875,2026-06-10,DE,Volkswagen,Passat,Diesel,Automatic,Franchise dealer,3,53800,171,2,False,5,21570,18554,15937,21431,16.3,Hold
+CAR-03942,2026-06-10,AT,BMW,i4,Electric,Automatic,Franchise dealer,2,32378,141,2,True,24,48850,43488,37354,50232,12.3,Hold
+CAR-04425,2026-06-10,DE,Audi,Q5,Petrol,Automatic,Independent dealer,3,56593,150,3,True,47,31990,28420,24412,32828,12.6,Review markdown
+CAR-04663,2026-06-11,DE,BMW,i4,Hybrid,Automatic,Private,2,43753,119,1,True,9,43720,37107,31873,42861,17.8,Hold
+CAR-04102,2026-06-11,DE,Mercedes-Benz,C-Class,Diesel,Automatic,Franchise dealer,2,39695,101,1,True,93,33200,30627,26307,35377,8.4,Review markdown
+CAR-01883,2026-06-11,DE,Volkswagen,Tiguan,Petrol,Automatic,Franchise dealer,7,144959,78,2,True,17,7540,7832,6727,9046,-3.7,Hold
+CAR-00969,2026-06-11,NL,BMW,i4,Hybrid,Automatic,Franchise dealer,4,74459,229,2,True,32,32960,28358,24358,32755,16.2,Hold
+CAR-04175,2026-06-11,AT,Mercedes-Benz,C-Class,Petrol,Automatic,Private,2,60178,198,2,True,24,26130,31304,26889,36159,-16.5,Check underpricing
+CAR-00078,2026-06-11,DE,Mercedes-Benz,EQE,Hybrid,Manual,Private,2,35867,145,1,True,36,52050,42971,36910,49634,21.1,Hold
+CAR-04200,2026-06-11,DE,BMW,i4,Petrol,Automatic,Independent dealer,3,48159,116,2,True,50,30700,28745,24691,33203,6.8,Review markdown
+CAR-01715,2026-06-11,DE,Volkswagen,Tiguan,Petrol,Automatic,Franchise dealer,8,107279,158,5,True,34,7410,8221,7062,9496,-9.9,Check underpricing
+CAR-00907,2026-06-11,NL,BMW,3 Series,Electric,Automatic,Independent dealer,8,128408,151,4,True,49,9090,8290,7121,9576,9.7,Review markdown
+CAR-02926,2026-06-11,DE,Volkswagen,ID.3,Petrol,Automatic,Independent dealer,2,44784,189,2,True,13,28920,27542,23657,31813,5.0,Hold
+CAR-04584,2026-06-12,DE,Volkswagen,Golf,Diesel,Manual,Independent dealer,2,48121,152,1,True,20,20300,19713,16933,22770,3.0,Hold
+CAR-00130,2026-06-12,NL,BMW,5 Series,Petrol,Automatic,Franchise dealer,4,48692,173,1,True,49,32610,26543,22799,30659,22.9,Review markdown
+CAR-00997,2026-06-12,DE,BMW,3 Series,Petrol,Automatic,Franchise dealer,5,91906,123,3,True,17,11500,13131,11279,15168,-12.4,Check underpricing
+CAR-04994,2026-06-12,DE,Mercedes-Benz,GLA,Electric,Automatic,Private,4,46897,115,2,True,26,15980,17485,15019,20196,-8.6,Check underpricing
+CAR-00294,2026-06-12,DE,Volkswagen,ID.3,Petrol,Automatic,Private,3,51551,183,1,True,66,20920,20874,17930,24111,0.2,Hold
+CAR-03911,2026-06-12,DE,Mercedes-Benz,E-Class,Petrol,Automatic,Franchise dealer,8,108776,157,5,True,106,12880,11791,10128,13620,9.2,Review markdown
+CAR-03892,2026-06-13,DE,Mercedes-Benz,EQE,Diesel,Automatic,Franchise dealer,4,64208,70,2,True,54,23750,23768,20416,27454,-0.1,Hold
+CAR-03163,2026-06-13,DE,Volkswagen,ID.3,Petrol,Automatic,Independent dealer,8,150063,171,4,True,36,6410,6945,5966,8022,-7.7,Hold
+CAR-04172,2026-06-13,DE,Skoda,Octavia,Petrol,Automatic,Franchise dealer,2,34414,206,1,True,33,26120,26093,22412,30139,0.1,Hold
+CAR-01946,2026-06-14,NL,BMW,X1,Petrol,Manual,Independent dealer,6,89240,137,2,False,142,9770,9453,8120,10919,3.4,Hold
+CAR-01529,2026-06-14,DE,Audi,Q3,Petrol,Automatic,Independent dealer,4,63708,178,2,True,5,20690,18256,15681,21087,13.3,Hold
+CAR-04706,2026-06-14,AT,BMW,X3,Petrol,Manual,Independent dealer,4,72410,120,2,True,19,20430,20598,17692,23792,-0.8,Hold
+CAR-00490,2026-06-14,DE,Volkswagen,ID.4,Hybrid,Automatic,Franchise dealer,1,22310,145,2,True,3,40350,45168,38797,52173,-10.7,Check underpricing
+CAR-03715,2026-06-14,NL,Volkswagen,Passat,Petrol,Manual,Independent dealer,6,87280,191,4,True,42,10240,10860,9328,12544,-5.7,Hold
+CAR-04338,2026-06-15,DE,Mercedes-Benz,E-Class,Hybrid,Automatic,Franchise dealer,3,56996,118,2,True,45,30200,31842,27351,36781,-5.2,Hold
+CAR-04076,2026-06-15,NL,Volkswagen,Passat,Diesel,Automatic,Franchise dealer,2,51205,140,3,True,58,24570,25943,22284,29966,-5.3,Hold
+CAR-03313,2026-06-15,DE,Volkswagen,Tiguan,Electric,Automatic,Independent dealer,6,90496,90,2,True,22,11680,10776,9256,12447,8.4,Hold
+CAR-01943,2026-06-15,DE,BMW,3 Series,Hybrid,Automatic,Private,1,29539,112,1,True,49,36830,36806,31615,42514,0.1,Hold
+CAR-03627,2026-06-15,AT,Volkswagen,Golf,Electric,Automatic,Independent dealer,5,91175,104,3,False,33,9000,8624,7408,9961,4.4,Hold
+CAR-00891,2026-06-15,DE,Skoda,Superb,Petrol,Automatic,Franchise dealer,6,111427,199,2,True,77,12500,11957,10271,13812,4.5,Hold
+CAR-00826,2026-06-15,DE,Mercedes-Benz,E-Class,Petrol,Automatic,Franchise dealer,1,34748,139,1,True,12,56700,54018,46399,62395,5.0,Hold
+CAR-00949,2026-06-15,AT,Audi,Q5,Petrol,Automatic,Franchise dealer,2,62804,174,1,True,11,52250,40148,34485,46374,30.1,Hold
+CAR-01339,2026-06-16,DE,Audi,e-tron,Electric,Manual,Independent dealer,5,119607,92,2,True,40,16870,16390,14078,18932,2.9,Hold
+CAR-03932,2026-06-16,DE,Mercedes-Benz,C-Class,Diesel,Manual,Independent dealer,1,22428,156,1,True,13,37120,40424,34722,46693,-8.2,Check underpricing
+CAR-02284,2026-06-16,DE,BMW,X3,Petrol,Automatic,Independent dealer,13,257655,70,5,True,36,5530,4788,4113,5531,15.5,Hold
+CAR-03500,2026-06-17,DE,Audi,A3,Petrol,Automatic,Franchise dealer,3,55970,179,1,True,79,22210,21536,18498,24876,3.1,Hold
+CAR-01184,2026-06-17,DE,BMW,5 Series,Diesel,Manual,Franchise dealer,4,61332,96,2,False,17,15610,16849,14472,19462,-7.4,Hold
+CAR-02774,2026-06-17,DE,Volkswagen,Golf,Electric,Automatic,Franchise dealer,3,84300,88,1,True,28,13620,15369,13201,17752,-11.4,Check underpricing
+CAR-00414,2026-06-17,DE,BMW,5 Series,Diesel,Automatic,Franchise dealer,2,34098,106,2,True,37,45030,35274,30298,40744,27.7,Hold
+CAR-01163,2026-06-17,DE,BMW,5 Series,Diesel,Automatic,Franchise dealer,5,110616,166,3,True,15,18760,16457,14136,19009,14.0,Hold
+CAR-01522,2026-06-17,DE,Skoda,Superb,Petrol,Manual,Independent dealer,3,46479,126,1,True,63,23920,20615,17707,23812,16.0,Review markdown
+CAR-00069,2026-06-17,DE,Mercedes-Benz,GLA,Electric,Automatic,Independent dealer,5,79595,180,2,True,58,15950,15611,13409,18032,2.2,Hold
+CAR-02572,2026-06-18,NL,Volkswagen,ID.3,Diesel,Automatic,Independent dealer,4,78710,132,3,True,40,15190,14356,12331,16582,5.8,Hold
+CAR-01864,2026-06-18,AT,Volkswagen,ID.4,Diesel,Automatic,Franchise dealer,5,119010,245,3,True,93,17850,15441,13263,17836,15.6,Review markdown
+CAR-01753,2026-06-18,DE,Volkswagen,ID.3,Petrol,Automatic,Independent dealer,2,69279,142,1,True,59,21100,24674,21194,28500,-14.5,Check underpricing
+CAR-04045,2026-06-19,DE,Audi,A4,Hybrid,Automatic,Franchise dealer,5,83064,92,2,True,19,17320,14251,12241,16461,21.5,Hold
+CAR-04928,2026-06-19,DE,Volkswagen,Tiguan,Electric,Automatic,Independent dealer,5,80853,127,4,False,18,11810,11220,9638,12960,5.3,Hold
+CAR-00645,2026-06-19,DE,Skoda,Enyaq,Diesel,Manual,Independent dealer,4,76795,104,4,True,77,16210,14600,12541,16864,11.0,Review markdown
+CAR-02614,2026-06-20,DE,Audi,Q3,Electric,Automatic,Private,2,50485,169,2,True,82,32760,28482,24465,32899,15.0,Review markdown
+CAR-04433,2026-06-20,DE,Audi,Q5,Petrol,Automatic,Franchise dealer,11,208454,85,4,True,74,5630,6295,5407,7271,-10.6,Check underpricing
+CAR-04342,2026-06-20,DE,Mercedes-Benz,C-Class,Diesel,Manual,Private,3,37612,187,2,True,56,22350,23363,20068,26986,-4.3,Hold
+CAR-00381,2026-06-20,DE,Skoda,Kodiaq,Petrol,Automatic,Private,3,82855,134,2,True,72,20680,18875,16213,21802,9.6,Review markdown
+CAR-00438,2026-06-21,DE,Volkswagen,Golf,Petrol,Automatic,Independent dealer,6,82149,131,2,True,10,8380,8736,7504,10091,-4.1,Hold
+CAR-04649,2026-06-21,DE,Mercedes-Benz,GLA,Diesel,Automatic,Franchise dealer,2,42362,177,2,True,56,28720,30106,25859,34775,-4.6,Hold
+CAR-02157,2026-06-21,DE,Audi,A3,Petrol,Manual,Private,13,183548,153,5,False,56,5220,3455,2968,3991,51.1,Review markdown
+CAR-02346,2026-06-21,DE,Skoda,Kodiaq,Petrol,Automatic,Independent dealer,7,120731,72,3,True,36,7760,8086,6945,9339,-4.0,Hold
+CAR-03244,2026-06-22,DE,BMW,5 Series,Petrol,Automatic,Franchise dealer,2,37493,193,1,True,55,47560,42493,36499,49082,11.9,Review markdown
+CAR-02093,2026-06-22,DE,BMW,5 Series,Petrol,Manual,Independent dealer,2,56660,71,1,True,26,26100,30034,25798,34692,-13.1,Check underpricing
+CAR-04063,2026-06-22,DE,Mercedes-Benz,C-Class,Petrol,Manual,Franchise dealer,4,78744,115,2,True,36,19640,17304,14863,19987,13.5,Hold
+CAR-02678,2026-06-22,DE,Volkswagen,Tiguan,Electric,Automatic,Independent dealer,9,125045,136,4,False,20,5190,6117,5255,7066,-15.2,Check underpricing
+CAR-00106,2026-06-22,DE,Mercedes-Benz,GLA,Petrol,Manual,Independent dealer,2,38582,132,1,True,119,27020,27914,23977,32243,-3.2,Hold
+CAR-02441,2026-06-22,DE,BMW,X1,Petrol,Automatic,Franchise dealer,3,53773,70,1,True,22,21390,20407,17529,23572,4.8,Hold
+CAR-00123,2026-06-23,DE,Audi,A3,Diesel,Automatic,Independent dealer,1,13830,127,1,True,35,34510,33643,28897,38860,2.6,Hold
+CAR-04805,2026-06-23,AT,Volkswagen,Passat,Petrol,Automatic,Private,9,196993,149,4,True,41,5840,5445,4677,6290,7.3,Hold
+CAR-01508,2026-06-23,DE,BMW,3 Series,Hybrid,Manual,Independent dealer,2,61790,133,1,True,65,28030,27009,23199,31197,3.8,Hold
+CAR-03065,2026-06-23,AT,Mercedes-Benz,GLA,Diesel,Automatic,Independent dealer,3,31775,171,1,True,65,28710,25275,21710,29194,13.6,Review markdown
+CAR-00809,2026-06-23,DE,Skoda,Karoq,Diesel,Manual,Franchise dealer,12,230942,144,5,True,10,5360,3471,2982,4010,54.4,Hold
+CAR-01992,2026-06-23,DE,Audi,Q5,Diesel,Automatic,Independent dealer,1,33836,158,2,True,56,51000,48452,41618,55965,5.3,Review markdown
+CAR-02462,2026-06-23,DE,BMW,i4,Diesel,Automatic,Franchise dealer,5,73084,123,3,True,35,22180,17901,15376,20677,23.9,Hold
+CAR-04581,2026-06-23,DE,Volkswagen,Passat,Diesel,Automatic,Independent dealer,3,70812,186,3,True,140,23700,20224,17371,23360,17.2,Review markdown
+CAR-03795,2026-06-23,DE,Volkswagen,Golf,Petrol,Automatic,Independent dealer,12,162280,140,5,True,55,5460,4084,3508,4717,33.7,Review markdown
+CAR-02731,2026-06-24,DE,Audi,A4,Petrol,Automatic,Independent dealer,6,114616,152,4,True,30,10820,10647,9146,12299,1.6,Hold
+CAR-01059,2026-06-24,NL,Volkswagen,ID.4,Diesel,Manual,Independent dealer,3,53743,205,2,True,33,27890,23505,20189,27150,18.7,Hold
+CAR-04646,2026-06-24,DE,Skoda,Enyaq,Hybrid,Automatic,Franchise dealer,3,35257,94,2,True,33,28850,25148,21601,29048,14.7,Hold
+CAR-03249,2026-06-24,DE,Mercedes-Benz,A-Class,Petrol,Automatic,Franchise dealer,10,204328,152,5,True,50,5260,4870,4183,5625,8.0,Review markdown
+CAR-04493,2026-06-24,DE,BMW,i4,Petrol,Automatic,Independent dealer,5,87829,169,2,True,33,19360,18930,16260,21865,2.3,Hold
+CAR-04440,2026-06-24,DE,BMW,5 Series,Hybrid,Automatic,Private,3,61554,70,2,True,8,27530,24420,20975,28207,12.7,Hold
+CAR-01261,2026-06-24,DE,Audi,Q3,Electric,Automatic,Independent dealer,6,73695,167,4,True,46,13770,12508,10744,14448,10.1,Review markdown
+CAR-03230,2026-06-25,DE,Mercedes-Benz,GLA,Petrol,Automatic,Private,13,194540,176,5,True,37,5620,4937,4241,5703,13.8,Hold
+CAR-00790,2026-06-25,DE,BMW,X3,Petrol,Automatic,Independent dealer,5,95165,158,3,False,40,14320,14818,12728,17115,-3.4,Hold
+CAR-01798,2026-06-25,DE,Mercedes-Benz,EQE,Diesel,Automatic,Private,1,19924,126,1,True,30,57250,54154,46516,62552,5.7,Hold
+CAR-03417,2026-06-25,DE,Volkswagen,ID.3,Petrol,Manual,Independent dealer,6,134510,73,2,True,24,6670,7859,6751,9078,-15.1,Check underpricing
+CAR-01170,2026-06-26,DE,Audi,Q3,Petrol,Automatic,Independent dealer,3,57621,123,2,True,63,24330,21109,18132,24382,15.3,Review markdown
+CAR-04821,2026-06-26,DE,Audi,Q5,Electric,Automatic,Independent dealer,8,117645,200,4,True,43,10080,11928,10246,13778,-15.5,Check underpricing
+CAR-00399,2026-06-26,DE,Mercedes-Benz,E-Class,Petrol,Automatic,Independent dealer,1,25044,163,1,True,49,53860,56191,48266,64905,-4.1,Hold
+CAR-03961,2026-06-26,AT,BMW,i4,Petrol,Manual,Independent dealer,3,68286,117,2,True,20,29170,26142,22455,30196,11.6,Hold
+CAR-03867,2026-06-26,DE,Audi,Q5,Petrol,Manual,Franchise dealer,1,36524,72,2,True,19,46210,42222,36267,48770,9.4,Hold
+CAR-01141,2026-06-27,DE,Volkswagen,Golf,Electric,Manual,Independent dealer,5,98234,152,2,True,22,9980,9917,8518,11454,0.6,Hold
+CAR-03952,2026-06-27,DE,Skoda,Kodiaq,Hybrid,Automatic,Independent dealer,4,37188,85,2,True,45,21280,18345,15757,21190,16.0,Hold
+CAR-00110,2026-06-27,DE,Mercedes-Benz,E-Class,Petrol,Automatic,Franchise dealer,4,59740,109,3,True,31,22720,23445,20138,27081,-3.1,Hold
+CAR-03247,2026-06-27,DE,Volkswagen,Tiguan,Petrol,Automatic,Franchise dealer,12,263957,136,5,False,51,5910,3507,3013,4051,68.5,Review markdown
+CAR-01878,2026-06-27,DE,Mercedes-Benz,EQE,Petrol,Manual,Private,5,80636,153,3,True,49,23240,18802,16150,21718,23.6,Review markdown
+CAR-03809,2026-06-28,DE,Volkswagen,Tiguan,Electric,Automatic,Private,2,52472,188,2,True,68,29440,28260,24274,32643,4.2,Hold
+CAR-00612,2026-06-28,DE,Skoda,Octavia,Hybrid,Automatic,Independent dealer,4,88970,214,3,True,20,12790,14274,12261,16488,-10.4,Check underpricing
+CAR-04024,2026-06-28,DE,Volkswagen,Tiguan,Diesel,Automatic,Private,7,154818,70,3,True,24,5720,6422,5516,7418,-10.9,Check underpricing
+CAR-01424,2026-06-28,DE,Audi,A4,Petrol,Automatic,Independent dealer,1,36505,177,1,True,38,46600,40682,34944,46991,14.5,Hold
+CAR-01518,2026-06-28,DE,BMW,3 Series,Hybrid,Manual,Independent dealer,5,82552,123,2,False,91,14310,11551,9922,13342,23.9,Review markdown
+CAR-03291,2026-06-28,NL,Volkswagen,Golf,Hybrid,Automatic,Franchise dealer,2,53000,166,1,True,43,23620,24468,21017,28263,-3.5,Hold
+CAR-02515,2026-06-29,DE,Volkswagen,Golf,Hybrid,Manual,Franchise dealer,6,132160,184,4,True,25,7640,8058,6922,9308,-5.2,Hold
+CAR-01032,2026-06-29,DE,Mercedes-Benz,GLA,Petrol,Automatic,Independent dealer,4,60929,190,4,True,37,18740,18143,15584,20956,3.3,Hold
+CAR-00270,2026-06-29,DE,BMW,i4,Petrol,Automatic,Independent dealer,4,58250,120,2,True,8,21450,22823,19604,26362,-6.0,Hold
+CAR-01876,2026-06-29,DE,Audi,Q5,Electric,Manual,Franchise dealer,3,81763,142,1,True,19,32390,27747,23834,32050,16.7,Hold
+CAR-03262,2026-06-29,DE,BMW,X3,Electric,Automatic,Franchise dealer,4,69761,185,2,True,30,25720,25557,21952,29520,0.6,Hold
+CAR-03816,2026-06-30,DE,Mercedes-Benz,EQE,Petrol,Automatic,Private,1,18650,130,1,True,35,64490,57016,48974,65858,13.1,Hold
+CAR-03668,2026-06-30,DE,Audi,A4,Diesel,Manual,Franchise dealer,5,66235,211,1,True,85,15090,15805,13575,18256,-4.5,Hold
+CAR-02530,2026-06-30,DE,Volkswagen,Passat,Electric,Automatic,Franchise dealer,3,42864,70,2,True,56,21150,20922,17971,24166,1.1,Hold
+CAR-01645,2026-06-30,DE,Mercedes-Benz,GLA,Petrol,Automatic,Franchise dealer,5,58145,207,3,True,56,20840,16673,14321,19259,25.0,Review markdown
+CAR-01072,2026-06-30,DE,Mercedes-Benz,E-Class,Electric,Automatic,Private,3,70231,149,2,True,65,36520,28939,24857,33427,26.2,Review markdown
