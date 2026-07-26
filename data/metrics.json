@@ -1,0 +1,13 @@
+{
+  "as_of": "2026-06-30",
+  "data_label": "Synthetic demo data",
+  "train_rows": 4000,
+  "test_rows": 1000,
+  "mae_eur": 1837,
+  "mape_pct": 9.6,
+  "r2": 0.961,
+  "baseline_mae_eur": 2452,
+  "baseline_improvement_pct": 25.1,
+  "action_candidates": 171,
+  "quality_checks_passed": 5
+}
